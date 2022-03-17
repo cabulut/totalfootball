@@ -1,0 +1,507 @@
+,id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+8,56372,38,SavedShot,0.905,0.295,0.01894107274711132,Roberto Firmino,a,482,FromCorner,2015,RightFoot,110,Arsenal,Liverpool,0,0,2015-08-24 23:00:00,,Aerial
+9,56373,39,MissedShots,0.8580000305175781,0.34599998474121096,0.04458365961909294,Roberto Firmino,a,482,FromCorner,2015,LeftFoot,110,Arsenal,Liverpool,0,0,2015-08-24 23:00:00,James Milner,Pass
+1,57542,8,ShotOnPost,0.725,0.5170000076293946,0.01769108884036541,Roberto Firmino,h,482,OpenPlay,2015,LeftFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,Dejan Lovren,Pass
+5,57551,50,BlockedShot,0.7719999694824219,0.32299999237060545,0.01968930847942829,Roberto Firmino,h,482,OpenPlay,2015,RightFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,Joseph Gomez,Pass
+15,58150,72,SavedShot,0.9009999847412109,0.715,0.044183943420648575,Roberto Firmino,h,482,OpenPlay,2015,RightFoot,140,Liverpool,Norwich,1,1,2015-09-20 19:00:00,Danny Ings,Pass
+0,59417,1,MissedShots,0.8159999847412109,0.35700000762939454,0.041284602135419846,Roberto Firmino,a,482,OpenPlay,2015,RightFoot,181,Chelsea,Liverpool,1,3,2015-10-31 16:45:00,Lucas Leiva,Pass
+9,59427,55,MissedShots,0.695,0.41,0.01169582363218069,Roberto Firmino,a,482,OpenPlay,2015,RightFoot,181,Chelsea,Liverpool,1,3,2015-10-31 16:45:00,Philippe Coutinho,BallRecovery
+17,55049,73,BlockedShot,0.865,0.6070000076293945,0.08646870404481888,Roberto Firmino,h,482,OpenPlay,2015,RightFoot,200,Liverpool,Crystal Palace,1,2,2015-11-08 20:00:00,Philippe Coutinho,Pass
+3,54050,31,Goal,0.9569999694824218,0.5720000076293945,0.590714156627655,Roberto Firmino,a,482,OpenPlay,2015,RightFoot,208,Manchester City,Liverpool,1,4,2015-11-21 21:30:00,Philippe Coutinho,Pass
+4,54051,34,SavedShot,0.9069999694824219,0.34,0.401464581489563,Roberto Firmino,a,482,OpenPlay,2015,RightFoot,208,Manchester City,Liverpool,1,4,2015-11-21 21:30:00,Philippe Coutinho,Throughball
+5,54052,35,MissedShots,0.8980000305175782,0.6179999923706054,0.1135656088590622,Roberto Firmino,a,482,OpenPlay,2015,LeftFoot,208,Manchester City,Liverpool,1,4,2015-11-21 21:30:00,Philippe Coutinho,Chipped
+8,54059,59,SavedShot,0.88,0.46,0.3749561011791229,Roberto Firmino,a,482,OpenPlay,2015,RightFoot,208,Manchester City,Liverpool,1,4,2015-11-21 21:30:00,Emre Can,Pass
+10,54063,70,SavedShot,0.9259999847412109,0.5070000076293946,0.08096257597208023,Roberto Firmino,a,482,FromCorner,2015,RightFoot,208,Manchester City,Liverpool,1,4,2015-11-21 21:30:00,,Aerial
+6,56182,56,BlockedShot,0.86,0.5320000076293945,0.016347119584679604,Roberto Firmino,h,482,FromCorner,2015,Head,219,Liverpool,Swansea,1,0,2015-11-29 20:15:00,Alberto Moreno,Cross
+7,56183,60,BlockedShot,0.8690000152587891,0.375,0.08019635826349258,Roberto Firmino,h,482,OpenPlay,2015,LeftFoot,219,Liverpool,Swansea,1,0,2015-11-29 20:15:00,Nathaniel Clyne,Pass
+4,54524,45,MissedShots,0.8580000305175781,0.764000015258789,0.024165740236639977,Roberto Firmino,a,482,OpenPlay,2015,RightFoot,229,Newcastle United,Liverpool,2,0,2015-12-06 20:00:00,James Milner,Pass
+16,54456,32,BlockedShot,0.85,0.61,0.06270795315504074,Roberto Firmino,h,482,OpenPlay,2015,RightFoot,257,Liverpool,Leicester,1,0,2015-12-26 19:00:00,Philippe Coutinho,Chipped
+24,54467,86,MissedShots,0.8669999694824219,0.71,0.05313437804579735,Roberto Firmino,h,482,OpenPlay,2015,LeftFoot,257,Liverpool,Leicester,1,0,2015-12-26 19:00:00,,None
+4,53833,24,SavedShot,0.755,0.41700000762939454,0.025055106729269028,Roberto Firmino,a,482,OpenPlay,2015,RightFoot,270,Sunderland,Liverpool,0,1,2015-12-30 23:45:00,Dejan Lovren,Pass
+6,53836,35,SavedShot,0.9269999694824219,0.4540000152587891,0.12494243681430817,Roberto Firmino,a,482,OpenPlay,2015,Head,270,Sunderland,Liverpool,0,1,2015-12-30 23:45:00,Nathaniel Clyne,Cross
+2,52855,29,BlockedShot,0.7390000152587891,0.5590000152587891,0.01730390265583992,Roberto Firmino,a,482,OpenPlay,2015,LeftFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Christian Benteke,HeadPass
+5,52858,33,SavedShot,0.955999984741211,0.5029999923706054,0.6835654377937317,Roberto Firmino,a,482,FromCorner,2015,RightFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Emre Can,Rebound
+6,52859,36,MissedShots,0.775,0.47,0.03331208601593971,Roberto Firmino,a,482,OpenPlay,2015,RightFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Christian Benteke,Pass
+2,53890,9,Goal,0.879000015258789,0.43599998474121093,0.08126135170459747,Roberto Firmino,h,482,FromCorner,2015,LeftFoot,289,Liverpool,Arsenal,3,3,2016-01-14 00:00:00,,Rebound
+3,53892,18,Goal,0.7669999694824219,0.545,0.02711436338722706,Roberto Firmino,h,482,OpenPlay,2015,RightFoot,289,Liverpool,Arsenal,3,3,2016-01-14 00:00:00,James Milner,Pass
+6,53901,46,ShotOnPost,0.86,0.44599998474121094,0.0728159174323082,Roberto Firmino,h,482,OpenPlay,2015,LeftFoot,289,Liverpool,Arsenal,3,3,2016-01-14 00:00:00,,None
+11,53913,67,BlockedShot,0.92,0.47,0.05416111648082733,Roberto Firmino,h,482,OpenPlay,2015,Head,289,Liverpool,Arsenal,3,3,2016-01-14 00:00:00,Alberto Moreno,TakeOn
+13,53915,68,MissedShots,0.875999984741211,0.5529999923706055,0.037539754062891006,Roberto Firmino,h,482,FromCorner,2015,Head,289,Liverpool,Arsenal,3,3,2016-01-14 00:00:00,Alberto Moreno,Cross
+1,56081,9,MissedShots,0.769000015258789,0.4640000152587891,0.026821110397577286,Roberto Firmino,h,482,OpenPlay,2015,RightFoot,298,Liverpool,Manchester United,0,1,2016-01-17 18:05:00,Adam Lallana,Pass
+11,56094,59,MissedShots,0.75,0.35400001525878905,0.010847121477127075,Roberto Firmino,h,482,OpenPlay,2015,RightFoot,298,Liverpool,Manchester United,0,1,2016-01-17 18:05:00,,Aerial
+0,54891,15,MissedShots,0.845,0.500999984741211,0.06809985637664795,Roberto Firmino,a,482,OpenPlay,2015,RightFoot,301,Norwich,Liverpool,4,5,2016-01-23 16:45:00,Alberto Moreno,Chipped
+1,54892,17,Goal,0.919000015258789,0.664000015258789,0.12063930183649063,Roberto Firmino,a,482,OpenPlay,2015,LeftFoot,301,Norwich,Liverpool,4,5,2016-01-23 16:45:00,James Milner,Throughball
+6,54901,62,Goal,0.909000015258789,0.48700000762939455,0.4458860158920288,Roberto Firmino,a,482,OpenPlay,2015,RightFoot,301,Norwich,Liverpool,4,5,2016-01-23 16:45:00,Adam Lallana,Pass
+9,54905,84,SavedShot,0.8380000305175781,0.705,0.053423162549734116,Roberto Firmino,a,482,OpenPlay,2015,RightFoot,301,Norwich,Liverpool,4,5,2016-01-23 16:45:00,Christian Benteke,TakeOn
+9,53460,57,MissedShots,0.8169999694824219,0.4229999923706055,0.05930115282535553,Roberto Firmino,a,482,OpenPlay,2015,LeftFoot,312,Leicester,Liverpool,2,0,2016-02-02 23:45:00,Jordan Henderson,Pass
+12,53466,76,BlockedShot,0.7090000152587891,0.355,0.010528394021093845,Roberto Firmino,a,482,OpenPlay,2015,RightFoot,312,Leicester,Liverpool,2,0,2016-02-02 23:45:00,Joe Allen,Pass
+2,52416,29,MissedShots,0.8140000152587891,0.7559999847412109,0.02264309674501419,Roberto Firmino,h,482,OpenPlay,2015,RightFoot,327,Liverpool,Sunderland,2,2,2016-02-06 19:00:00,Alberto Moreno,Pass
+3,52417,37,BlockedShot,0.865999984741211,0.3529999923706055,0.06687624752521515,Roberto Firmino,h,482,OpenPlay,2015,LeftFoot,327,Liverpool,Sunderland,2,2,2016-02-06 19:00:00,Adam Lallana,Pass
+4,52418,43,MissedShots,0.7519999694824219,0.4370000076293945,0.024786723777651787,Roberto Firmino,h,482,OpenPlay,2015,LeftFoot,327,Liverpool,Sunderland,2,2,2016-02-06 19:00:00,Emre Can,HeadPass
+7,52422,53,MissedShots,0.7380000305175781,0.4279999923706055,0.01874934323132038,Roberto Firmino,h,482,OpenPlay,2015,RightFoot,327,Liverpool,Sunderland,2,2,2016-02-06 19:00:00,Kolo Touré,TakeOn
+8,52424,58,Goal,0.9640000152587891,0.4279999923706055,0.36813488602638245,Roberto Firmino,h,482,OpenPlay,2015,Head,327,Liverpool,Sunderland,2,2,2016-02-06 19:00:00,James Milner,Cross
+1,61167,21,SavedShot,0.7969999694824219,0.6140000152587891,0.03407515212893486,Roberto Firmino,h,482,OpenPlay,2015,RightFoot,357,Liverpool,Manchester City,3,0,2016-03-03 00:00:00,Adam Lallana,Pass
+5,61180,56,Goal,0.8669999694824219,0.5640000152587891,0.4760206937789917,Roberto Firmino,h,482,OpenPlay,2015,RightFoot,357,Liverpool,Manchester City,3,0,2016-03-03 00:00:00,Adam Lallana,Throughball
+4,59727,42,BlockedShot,0.909000015258789,0.6859999847412109,0.05870337039232254,Roberto Firmino,a,482,OpenPlay,2015,RightFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Divock Origi,Pass
+7,59737,55,BlockedShot,0.7269999694824218,0.48700000762939455,0.01353217102587223,Roberto Firmino,a,482,OpenPlay,2015,RightFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,James Milner,BallRecovery
+8,59740,60,BlockedShot,0.8019999694824219,0.3129999923706055,0.016172342002391815,Roberto Firmino,a,482,OpenPlay,2015,LeftFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Adam Lallana,Chipped
+9,59743,64,SavedShot,0.7319999694824219,0.48400001525878905,0.017819121479988098,Roberto Firmino,a,482,OpenPlay,2015,LeftFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Philippe Coutinho,Pass
+11,59752,71,Goal,0.8690000152587891,0.585,0.3567841351032257,Roberto Firmino,a,482,OpenPlay,2015,RightFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,,None
+7,60640,56,SavedShot,0.9430000305175781,0.2620000076293945,0.060951631516218185,Roberto Firmino,h,482,OpenPlay,2015,RightFoot,403,Liverpool,Stoke,4,1,2016-04-10 19:00:00,Nathaniel Clyne,Pass
+2,61302,7,MissedShots,0.7240000152587891,0.43400001525878906,0.013137114234268665,Roberto Firmino,a,482,OpenPlay,2015,RightFoot,412,Bournemouth,Liverpool,1,2,2016-04-17 16:30:00,,None
+8,61321,40,Goal,0.9519999694824218,0.49,0.6551873087882996,Roberto Firmino,a,482,OpenPlay,2015,LeftFoot,412,Bournemouth,Liverpool,1,2,2016-04-17 16:30:00,,Rebound
+11,61329,46,MissedShots,0.8930000305175781,0.485,0.09608831256628036,Roberto Firmino,a,482,FromCorner,2015,LeftFoot,412,Bournemouth,Liverpool,1,2,2016-04-17 16:30:00,,None
+14,61335,58,SavedShot,0.855,0.6880000305175781,0.04437531530857086,Roberto Firmino,a,482,OpenPlay,2015,RightFoot,412,Bournemouth,Liverpool,1,2,2016-04-17 16:30:00,,None
+9,59561,29,SavedShot,0.9080000305175782,0.3770000076293945,0.2943212687969208,Roberto Firmino,h,482,OpenPlay,2015,RightFoot,418,Liverpool,Everton,4,0,2016-04-20 23:00:00,James Milner,Chipped
+13,59570,32,BlockedShot,0.8209999847412109,0.6329999923706054,0.040235716849565506,Roberto Firmino,h,482,FromCorner,2015,RightFoot,418,Liverpool,Everton,4,0,2016-04-20 23:00:00,,Rebound
+1,57420,16,BlockedShot,0.850999984741211,0.5170000076293946,0.09260380268096924,Roberto Firmino,h,482,OpenPlay,2015,LeftFoot,423,Liverpool,Newcastle United,2,2,2016-04-23 18:00:00,,None
+11,56446,61,SavedShot,0.924000015258789,0.25799999237060545,0.051408570259809494,Roberto Firmino,h,482,OpenPlay,2015,LeftFoot,445,Liverpool,Watford,2,0,2016-05-08 19:00:00,Sheyi Ojo,Pass
+12,56449,75,Goal,0.825,0.40799999237060547,0.06851906329393387,Roberto Firmino,h,482,OpenPlay,2015,RightFoot,445,Liverpool,Watford,2,0,2016-05-08 19:00:00,Sheyi Ojo,BallRecovery
+7,61048,19,MissedShots,0.975999984741211,0.6680000305175782,0.057335738092660904,Roberto Firmino,h,482,OpenPlay,2015,LeftFoot,450,Liverpool,Chelsea,1,1,2016-05-11 23:00:00,Daniel Sturridge,Pass
+16,61082,50,MissedShots,0.725,0.5029999923706054,0.017226433381438255,Roberto Firmino,h,482,OpenPlay,2015,RightFoot,450,Liverpool,Chelsea,1,1,2016-05-11 23:00:00,James Milner,Pass
+23,61100,75,BlockedShot,0.7280000305175781,0.52,0.050408679991960526,Roberto Firmino,h,482,DirectFreekick,2015,RightFoot,450,Liverpool,Chelsea,1,1,2016-05-11 23:00:00,,Standard
+25,61102,88,BlockedShot,0.84,0.645,0.04842562973499298,Roberto Firmino,h,482,OpenPlay,2015,LeftFoot,450,Liverpool,Chelsea,1,1,2016-05-11 23:00:00,Philippe Coutinho,Pass
+26,61104,90,BlockedShot,0.845999984741211,0.735999984741211,0.03113633766770363,Roberto Firmino,h,482,OpenPlay,2015,RightFoot,450,Liverpool,Chelsea,1,1,2016-05-11 23:00:00,Alberto Moreno,Pass
+1,112091,22,MissedShots,0.9059999847412109,0.59,0.08559956401586533,Roberto Firmino,a,482,OpenPlay,2016,LeftFoot,469,Arsenal,Liverpool,3,4,2016-08-14 19:00:00,Jordan Henderson,Card
+2,112092,24,MissedShots,0.9180000305175782,0.27700000762939453,0.04411972686648369,Roberto Firmino,a,482,OpenPlay,2016,RightFoot,469,Arsenal,Liverpool,3,4,2016-08-14 19:00:00,Adam Lallana,Pass
+5,112097,34,MissedShots,0.8109999847412109,0.3320000076293945,0.02411099523305893,Roberto Firmino,a,482,OpenPlay,2016,RightFoot,469,Arsenal,Liverpool,3,4,2016-08-14 19:00:00,Adam Lallana,Pass
+14,112111,84,BlockedShot,0.8430000305175781,0.3729999923706055,0.07180958241224289,Roberto Firmino,a,482,OpenPlay,2016,RightFoot,469,Arsenal,Liverpool,3,4,2016-08-14 19:00:00,Georginio Wijnaldum,Pass
+15,120557,51,SavedShot,0.7140000152587891,0.37,0.010962373577058315,Roberto Firmino,a,482,OpenPlay,2016,RightFoot,473,Burnley,Liverpool,2,0,2016-08-20 18:00:00,,TakeOn
+21,120564,80,MissedShots,0.7,0.4759999847412109,0.010043784976005554,Roberto Firmino,a,482,OpenPlay,2016,RightFoot,473,Burnley,Liverpool,2,0,2016-08-20 18:00:00,Philippe Coutinho,Pass
+9,113093,79,BlockedShot,0.899000015258789,0.6370000076293946,0.09160223603248596,Roberto Firmino,a,482,OpenPlay,2016,RightFoot,481,Tottenham,Liverpool,1,1,2016-08-27 15:30:00,Adam Lallana,Pass
+0,113221,10,SavedShot,0.7440000152587891,0.5209999847412109,0.02397989109158516,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Georginio Wijnaldum,Pass
+1,113222,12,Goal,0.85,0.519000015258789,0.09644696861505508,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,James Milner,Pass
+15,113247,88,Goal,0.8469999694824218,0.4759999847412109,0.3197706341743469,Roberto Firmino,h,482,OpenPlay,2016,LeftFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Sadio Mané,Pass
+22,113802,57,BlockedShot,0.84,0.325,0.0633247047662735,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,516,Liverpool,Hull,5,1,2016-09-24 18:00:00,Nathaniel Clyne,Pass
+24,113804,59,SavedShot,0.9119999694824219,0.5840000152587891,0.054086364805698395,Roberto Firmino,h,482,FromCorner,2016,Head,516,Liverpool,Hull,5,1,2016-09-24 18:00:00,Jordan Henderson,Cross
+26,113806,66,BlockedShot,0.850999984741211,0.3609999847412109,0.0822523981332779,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,516,Liverpool,Hull,5,1,2016-09-24 18:00:00,Jordan Henderson,Pass
+28,113808,76,BlockedShot,0.794000015258789,0.7559999847412109,0.028926866129040718,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,516,Liverpool,Hull,5,1,2016-09-24 18:00:00,James Milner,Pass
+3,114485,41,BlockedShot,0.919000015258789,0.580999984741211,0.08524906635284424,Roberto Firmino,a,482,FromCorner,2016,LeftFoot,522,Swansea,Liverpool,1,2,2016-10-01 15:30:00,Dejan Lovren,Pass
+4,114487,47,SavedShot,0.7280000305175781,0.500999984741211,0.02041313424706459,Roberto Firmino,a,482,SetPiece,2016,RightFoot,522,Swansea,Liverpool,1,2,2016-10-01 15:30:00,Philippe Coutinho,TakeOn
+7,114490,53,Goal,0.9019999694824219,0.52,0.2903023958206177,Roberto Firmino,a,482,SetPiece,2016,Head,522,Swansea,Liverpool,1,2,2016-10-01 15:30:00,Jordan Henderson,Chipped
+1,113985,28,SavedShot,0.9130000305175782,0.6519999694824219,0.014804714359343052,Roberto Firmino,h,482,OpenPlay,2016,Head,540,Liverpool,Manchester United,0,0,2016-10-17 23:00:00,Jordan Henderson,Cross
+9,114458,56,BlockedShot,0.909000015258789,0.4209999847412109,0.12681104242801666,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,548,Liverpool,West Bromwich Albion,2,1,2016-10-22 20:30:00,Philippe Coutinho,Pass
+11,114460,57,BlockedShot,0.9569999694824218,0.6229999923706054,0.08841992169618607,Roberto Firmino,h,482,SetPiece,2016,RightFoot,548,Liverpool,West Bromwich Albion,2,1,2016-10-22 20:30:00,,Rebound
+16,114469,82,SavedShot,0.924000015258789,0.4520000076293945,0.12989996373653412,Roberto Firmino,h,482,OpenPlay,2016,Head,548,Liverpool,West Bromwich Albion,2,1,2016-10-22 20:30:00,Sadio Mané,Cross
+17,114470,83,SavedShot,0.9019999694824219,0.3729999923706055,0.3488774597644806,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,548,Liverpool,West Bromwich Albion,2,1,2016-10-22 20:30:00,Georginio Wijnaldum,Pass
+1,114659,18,MissedShots,0.9290000152587891,0.5659999847412109,0.11551135033369064,Roberto Firmino,a,482,OpenPlay,2016,Head,2683,Crystal Palace,Liverpool,2,4,2016-10-29 20:30:00,Jordan Henderson,Cross
+3,114661,23,BlockedShot,0.8580000305175781,0.5579999923706055,0.12161742150783539,Roberto Firmino,a,482,OpenPlay,2016,LeftFoot,2683,Crystal Palace,Liverpool,2,4,2016-10-29 20:30:00,,TakeOn
+9,114668,38,SavedShot,0.799000015258789,0.7659999847412109,0.017354708164930344,Roberto Firmino,a,482,OpenPlay,2016,RightFoot,2683,Crystal Palace,Liverpool,2,4,2016-10-29 20:30:00,Emre Can,Pass
+14,114676,70,Goal,0.805,0.41,0.3136442303657532,Roberto Firmino,a,482,OpenPlay,2016,RightFoot,2683,Crystal Palace,Liverpool,2,4,2016-10-29 20:30:00,Jordan Henderson,Throughball
+0,115188,6,SavedShot,0.8930000305175781,0.5579999923706055,0.09546084702014923,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,2693,Liverpool,Watford,6,1,2016-11-06 18:15:00,Adam Lallana,Cross
+2,115191,15,MissedShots,0.915,0.509000015258789,0.09190391004085541,Roberto Firmino,h,482,FromCorner,2016,Head,2693,Liverpool,Watford,6,1,2016-11-06 18:15:00,Philippe Coutinho,Cross
+7,115196,23,MissedShots,0.86,0.42400001525878905,0.09047943353652954,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,2693,Liverpool,Watford,6,1,2016-11-06 18:15:00,Philippe Coutinho,Pass
+17,115209,56,Goal,0.9490000152587891,0.5,0.5868608951568604,Roberto Firmino,h,482,SetPiece,2016,RightFoot,2693,Liverpool,Watford,6,1,2016-11-06 18:15:00,Adam Lallana,Cross
+23,115220,87,SavedShot,0.9309999847412109,0.6909999847412109,0.06247207149863243,Roberto Firmino,h,482,OpenPlay,2016,LeftFoot,2693,Liverpool,Watford,6,1,2016-11-06 18:15:00,,None
+7,115623,65,MissedShots,0.8859999847412109,0.45599998474121095,0.39376911520957947,Roberto Firmino,a,482,OpenPlay,2016,RightFoot,2698,Southampton,Liverpool,0,0,2016-11-19 19:00:00,Philippe Coutinho,Pass
+8,115624,75,BlockedShot,0.9030000305175782,0.5790000152587891,0.1240721195936203,Roberto Firmino,a,482,OpenPlay,2016,LeftFoot,2698,Southampton,Liverpool,0,0,2016-11-19 19:00:00,James Milner,Pass
+12,115628,81,SavedShot,0.850999984741211,0.6840000152587891,0.03149982541799545,Roberto Firmino,a,482,OpenPlay,2016,RightFoot,2698,Southampton,Liverpool,0,0,2016-11-19 19:00:00,,Rebound
+1,115228,5,SavedShot,0.774000015258789,0.5329999923706055,0.03130622208118439,Roberto Firmino,h,482,OpenPlay,2016,LeftFoot,2710,Liverpool,Sunderland,2,0,2016-11-26 19:00:00,Nathaniel Clyne,Pass
+3,115232,20,MissedShots,0.7519999694824219,0.26799999237060546,0.01376402098685503,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,2710,Liverpool,Sunderland,2,0,2016-11-26 19:00:00,Joel Matip,TakeOn
+14,115244,57,SavedShot,0.8809999847412109,0.34599998474121096,0.0739218220114708,Roberto Firmino,h,482,OpenPlay,2016,LeftFoot,2710,Liverpool,Sunderland,2,0,2016-11-26 19:00:00,Jordan Henderson,Pass
+17,115249,68,BlockedShot,0.8930000305175781,0.705,0.04727385565638542,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,2710,Liverpool,Sunderland,2,0,2016-11-26 19:00:00,Emre Can,Pass
+1,115476,16,BlockedShot,0.87,0.5670000076293945,0.0700974091887474,Roberto Firmino,a,482,SetPiece,2016,RightFoot,3112,Bournemouth,Liverpool,4,3,2016-12-04 17:30:00,,None
+4,115480,31,MissedShots,0.7609999847412109,0.38,0.034434955567121506,Roberto Firmino,a,482,OpenPlay,2016,LeftFoot,3112,Bournemouth,Liverpool,4,3,2016-12-04 17:30:00,Nathaniel Clyne,Pass
+1,117026,14,BlockedShot,0.8109999847412109,0.5979999923706054,0.05438057705760002,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,3124,Liverpool,West Ham,2,2,2016-12-11 20:30:00,Sadio Mané,Pass
+5,117032,36,MissedShots,0.8240000152587891,0.590999984741211,0.05549795553088188,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,3124,Liverpool,West Ham,2,2,2016-12-11 20:30:00,Sadio Mané,Pass
+6,117034,41,MissedShots,0.9059999847412109,0.5420000076293945,0.07848659157752991,Roberto Firmino,h,482,OpenPlay,2016,Head,3124,Liverpool,West Ham,2,2,2016-12-11 20:30:00,Georginio Wijnaldum,Cross
+8,117628,48,MissedShots,0.879000015258789,0.515,0.03710760176181793,Roberto Firmino,a,482,OpenPlay,2016,Head,3127,Middlesbrough,Liverpool,0,3,2016-12-14 23:45:00,Sadio Mané,Chipped
+13,117635,87,BlockedShot,0.8009999847412109,0.720999984741211,0.061204634606838226,Roberto Firmino,a,482,DirectFreekick,2016,RightFoot,3127,Middlesbrough,Liverpool,0,3,2016-12-14 23:45:00,,Standard
+3,118515,49,SavedShot,0.905,0.5609999847412109,0.3032069802284241,Roberto Firmino,a,482,OpenPlay,2016,LeftFoot,3144,Everton,Liverpool,0,1,2016-12-20 00:00:00,James Milner,Chipped
+5,118519,76,MissedShots,0.8640000152587891,0.5640000152587891,0.057208314538002014,Roberto Firmino,a,482,OpenPlay,2016,RightFoot,3144,Everton,Liverpool,0,1,2016-12-20 00:00:00,Nathaniel Clyne,Cross
+6,118520,79,SavedShot,0.8919999694824219,0.46799999237060547,0.06122530624270439,Roberto Firmino,a,482,FromCorner,2016,RightFoot,3144,Everton,Liverpool,0,1,2016-12-20 00:00:00,James Milner,Cross
+7,118521,86,BlockedShot,0.8930000305175781,0.5729999923706055,0.11771280318498611,Roberto Firmino,a,482,OpenPlay,2016,LeftFoot,3144,Everton,Liverpool,0,1,2016-12-20 00:00:00,Emre Can,Pass
+10,118524,96,BlockedShot,0.875999984741211,0.43099998474121093,0.36501404643058777,Roberto Firmino,a,482,OpenPlay,2016,RightFoot,3144,Everton,Liverpool,0,1,2016-12-20 00:00:00,,None
+1,116460,6,SavedShot,0.9169999694824219,0.6409999847412109,0.01577816903591156,Roberto Firmino,h,482,OpenPlay,2016,Head,3153,Liverpool,Stoke,4,1,2016-12-27 21:15:00,James Milner,Cross
+2,116461,8,BlockedShot,0.745999984741211,0.37099998474121093,0.017703978344798088,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,3153,Liverpool,Stoke,4,1,2016-12-27 21:15:00,Georginio Wijnaldum,Pass
+6,116469,23,BlockedShot,0.9269999694824219,0.355,0.09466429799795151,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,3153,Liverpool,Stoke,4,1,2016-12-27 21:15:00,,TakeOn
+10,116474,37,MissedShots,0.8569999694824219,0.43599998474121093,0.069800466299057,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,3153,Liverpool,Stoke,4,1,2016-12-27 21:15:00,,None
+12,116476,43,Goal,0.895,0.639000015258789,0.09269547462463379,Roberto Firmino,h,482,OpenPlay,2016,LeftFoot,3153,Liverpool,Stoke,4,1,2016-12-27 21:15:00,James Milner,Pass
+3,116768,13,MissedShots,0.8080000305175781,0.7169999694824218,0.02407071366906166,Roberto Firmino,a,482,OpenPlay,2016,RightFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Sadio Mané,Pass
+12,116782,62,SavedShot,0.7319999694824219,0.46599998474121096,0.021003128960728645,Roberto Firmino,a,482,SetPiece,2016,RightFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Alberto Moreno,Pass
+14,116785,65,SavedShot,0.86,0.6819999694824219,0.04693328216671944,Roberto Firmino,a,482,OpenPlay,2016,RightFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Georginio Wijnaldum,Chipped
+17,116790,85,SavedShot,0.8440000152587891,0.6170000076293946,0.06745468825101852,Roberto Firmino,a,482,OpenPlay,2016,LeftFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Sadio Mané,Pass
+20,116793,93,SavedShot,0.909000015258789,0.5159999847412109,0.0784774199128151,Roberto Firmino,a,482,FromCorner,2016,Head,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Alberto Moreno,Cross
+6,117562,60,SavedShot,0.9259999847412109,0.674000015258789,0.08739620447158813,Roberto Firmino,a,482,OpenPlay,2016,RightFoot,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,Philippe Coutinho,Pass
+8,117565,65,BlockedShot,0.750999984741211,0.3120000076293945,0.02461632899940014,Roberto Firmino,a,482,OpenPlay,2016,RightFoot,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,Emre Can,Pass
+3,118423,32,BlockedShot,0.8430000305175781,0.44099998474121094,0.08924960345029831,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,3350,Liverpool,Swansea,2,3,2017-01-21 15:30:00,Philippe Coutinho,Pass
+5,118425,40,MissedShots,0.9230000305175782,0.4540000152587891,0.07421047240495682,Roberto Firmino,h,482,OpenPlay,2016,Head,3350,Liverpool,Swansea,2,3,2017-01-21 15:30:00,Adam Lallana,Chipped
+6,118428,54,Goal,0.9269999694824219,0.46900001525878904,0.13373401761054993,Roberto Firmino,h,482,OpenPlay,2016,Head,3350,Liverpool,Swansea,2,3,2017-01-21 15:30:00,James Milner,Cross
+8,118431,68,Goal,0.875999984741211,0.4929999923706055,0.08305041491985321,Roberto Firmino,h,482,OpenPlay,2016,LeftFoot,3350,Liverpool,Swansea,2,3,2017-01-21 15:30:00,Georginio Wijnaldum,Cross
+13,118437,84,MissedShots,0.740999984741211,0.445,0.017392581328749657,Roberto Firmino,h,482,OpenPlay,2016,LeftFoot,3350,Liverpool,Swansea,2,3,2017-01-21 15:30:00,,TakeOn
+15,118440,88,BlockedShot,0.825999984741211,0.33599998474121096,0.03709392622113228,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,3350,Liverpool,Swansea,2,3,2017-01-21 15:30:00,Divock Origi,HeadPass
+1,116205,48,MissedShots,0.9069999694824219,0.5429999923706055,0.45747366547584534,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,3366,Liverpool,Chelsea,1,1,2017-01-31 23:00:00,,None
+6,116214,90,SavedShot,0.9180000305175782,0.49,0.337421178817749,Roberto Firmino,h,482,OpenPlay,2016,Head,3366,Liverpool,Chelsea,1,1,2017-01-31 23:00:00,Sadio Mané,Chipped
+2,116643,17,BlockedShot,0.764000015258789,0.39799999237060546,0.016214871779084206,Roberto Firmino,a,482,OpenPlay,2016,RightFoot,3373,Hull,Liverpool,2,0,2017-02-04 15:00:00,Sadio Mané,HeadPass
+18,116663,77,BlockedShot,0.8580000305175781,0.605999984741211,0.052905987948179245,Roberto Firmino,a,482,OpenPlay,2016,LeftFoot,3373,Hull,Liverpool,2,0,2017-02-04 15:00:00,Adam Lallana,HeadPass
+19,116665,88,BlockedShot,0.8440000152587891,0.475,0.06950175762176514,Roberto Firmino,a,482,OpenPlay,2016,LeftFoot,3373,Hull,Liverpool,2,0,2017-02-04 15:00:00,Jordan Henderson,Pass
+4,117642,17,SavedShot,0.89,0.509000015258789,0.37699198722839355,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,3386,Liverpool,Tottenham,2,0,2017-02-11 17:30:00,,Rebound
+11,117653,40,BlockedShot,0.8119999694824219,0.265,0.036110714077949524,Roberto Firmino,h,482,OpenPlay,2016,LeftFoot,3386,Liverpool,Tottenham,2,0,2017-02-11 17:30:00,Nathaniel Clyne,Pass
+0,119467,8,Goal,0.950999984741211,0.54,0.5244148969650269,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,3401,Liverpool,Arsenal,3,1,2017-03-04 17:30:00,Sadio Mané,Cross
+9,119478,49,BlockedShot,0.9019999694824219,0.35900001525878905,0.1181914359331131,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,3401,Liverpool,Arsenal,3,1,2017-03-04 17:30:00,Sadio Mané,Pass
+16,119487,83,MissedShots,0.9159999847412109,0.45799999237060546,0.08080518245697021,Roberto Firmino,h,482,FromCorner,2016,Head,3401,Liverpool,Arsenal,3,1,2017-03-04 17:30:00,James Milner,Cross
+4,120033,39,SavedShot,0.895,0.674000015258789,0.06578171253204346,Roberto Firmino,a,482,OpenPlay,2016,RightFoot,3426,Manchester City,Liverpool,1,1,2017-03-19 16:30:00,Philippe Coutinho,Pass
+10,120040,60,SavedShot,0.875,0.645,0.3226698338985443,Roberto Firmino,a,482,OpenPlay,2016,RightFoot,3426,Manchester City,Liverpool,1,1,2017-03-19 16:30:00,Philippe Coutinho,Throughball
+11,120043,71,MissedShots,0.9119999694824219,0.715,0.055200789123773575,Roberto Firmino,a,482,OpenPlay,2016,RightFoot,3426,Manchester City,Liverpool,1,1,2017-03-19 16:30:00,Adam Lallana,Pass
+12,120047,81,MissedShots,0.8859999847412109,0.3039999961853027,0.07335378229618073,Roberto Firmino,a,482,OpenPlay,2016,RightFoot,3426,Manchester City,Liverpool,1,1,2017-03-19 16:30:00,Sadio Mané,Pass
+0,119593,0,SavedShot,0.8380000305175781,0.2520000076293945,0.025092484429478645,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,3449,Liverpool,Bournemouth,2,2,2017-04-05 20:00:00,Divock Origi,Pass
+7,119604,31,SavedShot,0.7480000305175781,0.42400001525878905,0.02249552309513092,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,3449,Liverpool,Bournemouth,2,2,2017-04-05 20:00:00,Divock Origi,Pass
+9,119606,38,SavedShot,0.7330000305175781,0.43400001525878906,0.015890993177890778,Roberto Firmino,h,482,OpenPlay,2016,LeftFoot,3449,Liverpool,Bournemouth,2,2,2017-04-05 20:00:00,,BallTouch
+4,120212,55,SavedShot,0.9459999847412109,0.3189999961853027,0.05046212300658226,Roberto Firmino,a,482,OpenPlay,2016,LeftFoot,3451,Stoke,Liverpool,1,2,2017-04-08 15:00:00,,None
+9,120218,69,BlockedShot,0.8909999847412109,0.6780000305175782,0.04765442758798599,Roberto Firmino,a,482,OpenPlay,2016,RightFoot,3451,Stoke,Liverpool,1,2,2017-04-08 15:00:00,Daniel Sturridge,Pass
+11,120221,71,Goal,0.7969999694824219,0.43,0.039212580770254135,Roberto Firmino,a,482,OpenPlay,2016,RightFoot,3451,Stoke,Liverpool,1,2,2017-04-08 15:00:00,Georginio Wijnaldum,Chipped
+0,121552,14,MissedShots,0.8830000305175781,0.6659999847412109,0.06465265899896622,Roberto Firmino,a,482,OpenPlay,2016,LeftFoot,3469,West Bromwich Albion,Liverpool,0,1,2017-04-16 13:30:00,Philippe Coutinho,Pass
+5,121558,45,Goal,0.93,0.5609999847412109,0.3624480664730072,Roberto Firmino,a,482,SetPiece,2016,Head,3469,West Bromwich Albion,Liverpool,0,1,2017-04-16 13:30:00,Lucas Leiva,HeadPass
+9,121562,59,BlockedShot,0.8290000152587891,0.6270000076293946,0.055413421243429184,Roberto Firmino,a,482,OpenPlay,2016,LeftFoot,3469,West Bromwich Albion,Liverpool,0,1,2017-04-16 13:30:00,Divock Origi,Pass
+10,120829,64,MissedShots,0.8930000305175781,0.345,0.07894325256347656,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,3476,Liverpool,Crystal Palace,1,2,2017-04-23 16:30:00,Georginio Wijnaldum,Pass
+11,120834,84,BlockedShot,0.6809999847412109,0.539000015258789,0.011517031118273735,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,3476,Liverpool,Crystal Palace,1,2,2017-04-23 16:30:00,,BallTouch
+1,121529,14,BlockedShot,0.8159999847412109,0.6229999923706054,0.045373979955911636,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,3496,Liverpool,Southampton,0,0,2017-05-07 13:30:00,,BallRecovery
+3,121531,33,SavedShot,0.725999984741211,0.48700000762939455,0.014094987884163857,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,3496,Liverpool,Southampton,0,0,2017-05-07 13:30:00,Emre Can,TakeOn
+8,121539,74,BlockedShot,0.749000015258789,0.32,0.01753394305706024,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,3496,Liverpool,Southampton,0,0,2017-05-07 13:30:00,Georginio Wijnaldum,Pass
+0,112500,0,SavedShot,0.7619999694824219,0.6509999847412109,0.023239048197865486,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,3515,Liverpool,Middlesbrough,3,0,2017-05-21 15:00:00,Adam Lallana,Pass
+3,112505,19,BlockedShot,0.860999984741211,0.43400001525878906,0.0663977637887001,Roberto Firmino,h,482,SetPiece,2016,LeftFoot,3515,Liverpool,Middlesbrough,3,0,2017-05-21 15:00:00,Joel Matip,None
+12,112515,36,SavedShot,0.8059999847412109,0.3120000076293945,0.027397481724619865,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,3515,Liverpool,Middlesbrough,3,0,2017-05-21 15:00:00,Georginio Wijnaldum,Pass
+15,112519,52,BlockedShot,0.895,0.4540000152587891,0.11618297547101974,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,3515,Liverpool,Middlesbrough,3,0,2017-05-21 15:00:00,,None
+4,158353,54,Goal,0.885,0.5,0.7611688375473022,Roberto Firmino,a,482,Penalty,2017,RightFoot,7120,Watford,Liverpool,3,3,2017-08-12 12:30:00,,Standard
+5,158354,56,MissedShots,0.8819999694824219,0.6719999694824219,0.054032400250434875,Roberto Firmino,a,482,OpenPlay,2017,RightFoot,7120,Watford,Liverpool,3,3,2017-08-12 12:30:00,Dejan Lovren,Chipped
+5,158492,40,SavedShot,0.765,0.225,0.010574852116405964,Roberto Firmino,h,482,OpenPlay,2017,RightFoot,7134,Liverpool,Crystal Palace,1,0,2017-08-19 15:00:00,Joseph Gomez,None
+8,158497,55,MissedShots,0.845,0.7719999694824219,0.018779514357447624,Roberto Firmino,h,482,OpenPlay,2017,RightFoot,7134,Liverpool,Crystal Palace,1,0,2017-08-19 15:00:00,,None
+9,158498,58,BlockedShot,0.735999984741211,0.524000015258789,0.022854452952742577,Roberto Firmino,h,482,OpenPlay,2017,RightFoot,7134,Liverpool,Crystal Palace,1,0,2017-08-19 15:00:00,Ragnar Klavan,Pass
+17,158506,84,SavedShot,0.7119999694824218,0.46700000762939453,0.01656150072813034,Roberto Firmino,h,482,OpenPlay,2017,RightFoot,7134,Liverpool,Crystal Palace,1,0,2017-08-19 15:00:00,,None
+19,158508,88,BlockedShot,0.8730000305175781,0.3120000076293945,0.06400147080421448,Roberto Firmino,h,482,OpenPlay,2017,LeftFoot,7134,Liverpool,Crystal Palace,1,0,2017-08-19 15:00:00,,Dispossessed
+3,158669,16,Goal,0.9269999694824219,0.500999984741211,0.41750091314315796,Roberto Firmino,h,482,OpenPlay,2017,Head,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,Joseph Gomez,Cross
+8,158674,34,BlockedShot,0.7609999847412109,0.54,0.03422142192721367,Roberto Firmino,h,482,OpenPlay,2017,LeftFoot,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,Emre Can,Pass
+2,159382,14,SavedShot,0.9640000152587891,0.6140000152587891,0.06705735623836517,Roberto Firmino,a,482,OpenPlay,2017,RightFoot,7149,Manchester City,Liverpool,5,0,2017-09-09 12:30:00,Jordan Henderson,Cross
+15,158707,47,BlockedShot,0.879000015258789,0.6569999694824219,0.059754930436611176,Roberto Firmino,h,482,OpenPlay,2017,RightFoot,7162,Liverpool,Burnley,1,1,2017-09-16 15:00:00,James Milner,Pass
+26,158719,73,BlockedShot,0.7119999694824218,0.48900001525878906,0.014494718983769417,Roberto Firmino,h,482,OpenPlay,2017,RightFoot,7162,Liverpool,Burnley,1,1,2017-09-16 15:00:00,Daniel Sturridge,Pass
+5,159351,24,BlockedShot,0.7809999847412109,0.2929999923706055,0.018453428521752357,Roberto Firmino,a,482,OpenPlay,2017,LeftFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,,None
+9,159355,42,MissedShots,0.9019999694824219,0.66,0.09231598675251007,Roberto Firmino,a,482,OpenPlay,2017,LeftFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Emre Can,Pass
+14,159363,60,MissedShots,0.7290000152587891,0.45599998474121095,0.02059471234679222,Roberto Firmino,a,482,OpenPlay,2017,RightFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Jordan Henderson,Pass
+4,160496,18,SavedShot,0.715,0.36,0.014962815679609776,Roberto Firmino,h,482,OpenPlay,2017,LeftFoot,7193,Liverpool,Manchester United,0,0,2017-10-14 12:30:00,Joseph Gomez,Pass
+9,160505,46,BlockedShot,0.9569999694824218,0.575,0.11135491728782654,Roberto Firmino,h,482,OpenPlay,2017,LeftFoot,7193,Liverpool,Manchester United,0,0,2017-10-14 12:30:00,Philippe Coutinho,Cross
+10,160506,48,BlockedShot,0.865,0.769000015258789,0.02678232453763485,Roberto Firmino,h,482,OpenPlay,2017,RightFoot,7193,Liverpool,Manchester United,0,0,2017-10-14 12:30:00,Georginio Wijnaldum,Pass
+11,160507,49,BlockedShot,0.8019999694824219,0.33799999237060546,0.03734474629163742,Roberto Firmino,h,482,SetPiece,2017,LeftFoot,7193,Liverpool,Manchester United,0,0,2017-10-14 12:30:00,Jordan Henderson,TakeOn
+9,160031,57,Goal,0.955999984741211,0.5279999923706055,0.13265462219715118,Roberto Firmino,h,482,FromCorner,2017,Head,7217,Liverpool,Huddersfield,3,0,2017-10-28 15:00:00,James Milner,Cross
+0,161412,1,SavedShot,0.9719999694824218,0.39599998474121095,0.08049175143241882,Roberto Firmino,a,482,SetPiece,2017,RightFoot,7227,West Ham,Liverpool,1,4,2017-11-04 17:30:00,Emre Can,HeadPass
+7,161425,68,MissedShots,0.905,0.36700000762939455,0.3768523633480072,Roberto Firmino,a,482,OpenPlay,2017,RightFoot,7227,West Ham,Liverpool,1,4,2017-11-04 17:30:00,Mohamed Salah,TakeOn
+13,161431,85,MissedShots,0.8830000305175781,0.73,0.058263763785362244,Roberto Firmino,a,482,OpenPlay,2017,RightFoot,7227,West Ham,Liverpool,1,4,2017-11-04 17:30:00,Emre Can,Pass
+13,160828,53,SavedShot,0.9159999847412109,0.34,0.213583305478096,Roberto Firmino,h,482,OpenPlay,2017,RightFoot,7231,Liverpool,Southampton,3,0,2017-11-18 15:00:00,Trent Alexander-Arnold,Pass
+17,160832,67,SavedShot,0.899000015258789,0.32799999237060545,0.09669367223978043,Roberto Firmino,h,482,OpenPlay,2017,RightFoot,7231,Liverpool,Southampton,3,0,2017-11-18 15:00:00,Sadio Mané,Pass
+19,160835,83,MissedShots,0.8190000152587891,0.5659999847412109,0.07363318651914597,Roberto Firmino,h,482,OpenPlay,2017,LeftFoot,7231,Liverpool,Southampton,3,0,2017-11-18 15:00:00,Jordan Henderson,Pass
+20,160836,90,MissedShots,0.7809999847412109,0.6329999923706054,0.036873959004879,Roberto Firmino,h,482,OpenPlay,2017,RightFoot,7231,Liverpool,Southampton,3,0,2017-11-18 15:00:00,Alberto Moreno,Pass
+11,161320,85,SavedShot,0.745,0.6509999847412109,0.012988998554646969,Roberto Firmino,a,482,OpenPlay,2017,RightFoot,7258,Stoke,Liverpool,0,3,2017-11-29 20:00:00,Alberto Moreno,TakeOn
+13,161322,89,BlockedShot,0.8119999694824219,0.664000015258789,0.016094770282506943,Roberto Firmino,a,482,OpenPlay,2017,RightFoot,7258,Stoke,Liverpool,0,3,2017-11-29 20:00:00,,Aerial
+2,161541,4,MissedShots,0.9490000152587891,0.5279999923706055,0.12929703295230865,Roberto Firmino,a,482,FromCorner,2017,Head,7268,Brighton,Liverpool,1,5,2017-12-02 15:00:00,Philippe Coutinho,Cross
+4,161544,30,Goal,0.9319999694824219,0.47200000762939454,0.6695113182067871,Roberto Firmino,a,482,OpenPlay,2017,RightFoot,7268,Brighton,Liverpool,1,5,2017-12-02 15:00:00,Philippe Coutinho,Pass
+6,161547,47,Goal,0.8819999694824219,0.45,0.34835362434387207,Roberto Firmino,a,482,OpenPlay,2017,RightFoot,7268,Brighton,Liverpool,1,5,2017-12-02 15:00:00,Mohamed Salah,Pass
+1,185329,16,MissedShots,0.9669999694824218,0.59,0.39260298013687134,Roberto Firmino,h,482,OpenPlay,2017,LeftFoot,7287,Liverpool,West Bromwich Albion,0,0,2017-12-13 20:00:00,Mohamed Salah,Throughball
+5,185335,41,BlockedShot,0.9080000305175782,0.715,0.040328361093997955,Roberto Firmino,h,482,OpenPlay,2017,RightFoot,7287,Liverpool,West Bromwich Albion,0,0,2017-12-13 20:00:00,Dejan Lovren,TakeOn
+6,183197,24,BlockedShot,0.9,0.4229999923706055,0.12785382568836212,Roberto Firmino,a,482,OpenPlay,2017,RightFoot,7290,Bournemouth,Liverpool,0,4,2017-12-17 16:30:00,Jordan Henderson,Pass
+13,183209,65,Goal,0.9319999694824219,0.54,0.3977183997631073,Roberto Firmino,a,482,OpenPlay,2017,Head,7290,Bournemouth,Liverpool,0,4,2017-12-17 16:30:00,Philippe Coutinho,Cross
+1,182880,21,SavedShot,0.97,0.3820000076293945,0.028160415589809418,Roberto Firmino,a,482,OpenPlay,2017,Head,7301,Arsenal,Liverpool,3,3,2017-12-22 19:45:00,Andrew Robertson,Cross
+2,182881,23,MissedShots,0.9340000152587891,0.38,0.019752731546759605,Roberto Firmino,a,482,OpenPlay,2017,Head,7301,Arsenal,Liverpool,3,3,2017-12-22 19:45:00,Philippe Coutinho,Aerial
+5,182885,31,MissedShots,0.855,0.649000015258789,0.07468415796756744,Roberto Firmino,a,482,OpenPlay,2017,RightFoot,7301,Arsenal,Liverpool,3,3,2017-12-22 19:45:00,Sadio Mané,Pass
+11,182897,70,Goal,0.84,0.48200000762939454,0.07389340549707413,Roberto Firmino,a,482,OpenPlay,2017,LeftFoot,7301,Arsenal,Liverpool,3,3,2017-12-22 19:45:00,Emre Can,Pass
+5,185660,30,MissedShots,0.755,0.44299999237060544,0.030849898234009743,Roberto Firmino,h,482,OpenPlay,2017,RightFoot,7313,Liverpool,Swansea,5,0,2017-12-26 17:30:00,Philippe Coutinho,Pass
+7,185663,45,MissedShots,0.8730000305175781,0.5359999847412109,0.31161102652549744,Roberto Firmino,h,482,OpenPlay,2017,RightFoot,7313,Liverpool,Swansea,5,0,2017-12-26 17:30:00,Mohamed Salah,TakeOn
+9,185666,51,Goal,0.9590000152587891,0.44299999237060544,0.10381865501403809,Roberto Firmino,h,482,SetPiece,2017,RightFoot,7313,Liverpool,Swansea,5,0,2017-12-26 17:30:00,Philippe Coutinho,Chipped
+14,185672,65,Goal,0.92,0.53,0.553722083568573,Roberto Firmino,h,482,OpenPlay,2017,RightFoot,7313,Liverpool,Swansea,5,0,2017-12-26 17:30:00,Mohamed Salah,Pass
+5,186013,21,SavedShot,0.7880000305175782,0.42700000762939455,0.03040783852338791,Roberto Firmino,h,482,OpenPlay,2017,RightFoot,7323,Liverpool,Leicester,2,1,2017-12-30 15:00:00,James Milner,BallRecovery
+8,186016,28,SavedShot,0.755,0.31799999237060544,0.01342017948627472,Roberto Firmino,h,482,OpenPlay,2017,RightFoot,7323,Liverpool,Leicester,2,1,2017-12-30 15:00:00,Joel Matip,TakeOn
+3,187940,30,MissedShots,0.9319999694824219,0.3579999923706055,0.02714673802256584,Roberto Firmino,h,482,OpenPlay,2017,Head,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Alex Oxlade-Chamberlain,Cross
+7,187947,46,BlockedShot,0.7680000305175781,0.42900001525878906,0.027979426085948944,Roberto Firmino,h,482,OpenPlay,2017,LeftFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Mohamed Salah,Pass
+11,187953,58,Goal,0.889000015258789,0.6719999694824219,0.1454101800918579,Roberto Firmino,h,482,OpenPlay,2017,RightFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Alex Oxlade-Chamberlain,Throughball
+5,189609,57,BlockedShot,0.7819999694824219,0.34,0.024133790284395218,Roberto Firmino,a,482,OpenPlay,2017,RightFoot,7357,Swansea,Liverpool,1,0,2018-01-22 20:00:00,Emre Can,Pass
+16,189621,87,BlockedShot,0.7980000305175782,0.35900001525878905,0.028643399477005005,Roberto Firmino,a,482,OpenPlay,2017,RightFoot,7357,Swansea,Liverpool,1,0,2018-01-22 20:00:00,Joel Matip,Pass
+19,189624,94,ShotOnPost,0.950999984741211,0.4279999923706055,0.2991158366203308,Roberto Firmino,a,482,OpenPlay,2017,Head,7357,Swansea,Liverpool,1,0,2018-01-22 20:00:00,Virgil van Dijk,Chipped
+0,194061,2,SavedShot,0.7759999847412109,0.59,0.027291880920529366,Roberto Firmino,a,482,OpenPlay,2017,LeftFoot,7359,Huddersfield,Liverpool,0,3,2018-01-30 20:00:00,Sadio Mané,Pass
+6,194069,45,Goal,0.9730000305175781,0.6309999847412109,0.1056748703122139,Roberto Firmino,a,482,OpenPlay,2017,RightFoot,7359,Huddersfield,Liverpool,0,3,2018-01-30 20:00:00,Sadio Mané,Pass
+3,193732,21,MissedShots,0.9019999694824219,0.4540000152587891,0.10978993028402328,Roberto Firmino,h,482,OpenPlay,2017,Head,7375,Liverpool,Tottenham,2,2,2018-02-04 16:30:00,Trent Alexander-Arnold,Cross
+0,193941,5,Goal,0.8580000305175781,0.4909999847412109,0.34328052401542664,Roberto Firmino,a,482,OpenPlay,2017,LeftFoot,7384,Southampton,Liverpool,0,2,2018-02-11 16:30:00,Mohamed Salah,Pass
+9,193956,69,SavedShot,0.8569999694824219,0.43900001525878907,0.11780759692192078,Roberto Firmino,a,482,OpenPlay,2017,RightFoot,7384,Southampton,Liverpool,0,2,2018-02-11 16:30:00,Sadio Mané,Pass
+14,193961,77,BlockedShot,0.8169999694824219,0.49,0.057680096477270126,Roberto Firmino,a,482,OpenPlay,2017,RightFoot,7384,Southampton,Liverpool,0,2,2018-02-11 16:30:00,,None
+11,197376,56,Goal,0.9169999694824219,0.5459999847412109,0.6890694499015808,Roberto Firmino,h,482,OpenPlay,2017,RightFoot,7395,Liverpool,West Ham,4,1,2018-02-24 15:00:00,Emre Can,TakeOn
+13,197379,61,SavedShot,0.8969999694824219,0.6270000076293946,0.1012302041053772,Roberto Firmino,h,482,OpenPlay,2017,LeftFoot,7395,Liverpool,West Ham,4,1,2018-02-24 15:00:00,Sadio Mané,Pass
+6,199032,32,BlockedShot,0.955999984741211,0.38,0.026619914919137955,Roberto Firmino,h,482,FromCorner,2017,Head,7403,Liverpool,Newcastle United,2,0,2018-03-03 17:30:00,Mohamed Salah,Cross
+12,199042,80,BlockedShot,0.795,0.4179999923706055,0.03767089173197746,Roberto Firmino,h,482,OpenPlay,2017,RightFoot,7403,Liverpool,Newcastle United,2,0,2018-03-03 17:30:00,,None
+1,199828,28,SavedShot,0.8469999694824218,0.3060000038146973,0.02267804928123951,Roberto Firmino,a,482,FromCorner,2017,LeftFoot,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,Andrew Robertson,Chipped
+2,199829,30,SavedShot,0.74,0.515,0.01890558749437332,Roberto Firmino,a,482,OpenPlay,2017,RightFoot,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,Andrew Robertson,TakeOn
+10,199839,73,BlockedShot,0.7559999847412109,0.5370000076293945,0.02512376569211483,Roberto Firmino,a,482,OpenPlay,2017,RightFoot,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,Sadio Mané,Pass
+2,201636,38,SavedShot,0.8530000305175781,0.4879999923706055,0.11038405448198318,Roberto Firmino,h,482,OpenPlay,2017,LeftFoot,7423,Liverpool,Watford,5,0,2018-03-17 17:30:00,Mohamed Salah,Pass
+4,201638,46,SavedShot,0.8859999847412109,0.5109999847412109,0.07185476273298264,Roberto Firmino,h,482,OpenPlay,2017,Head,7423,Liverpool,Watford,5,0,2018-03-17 17:30:00,Jordan Henderson,Cross
+5,201639,48,Goal,0.9640000152587891,0.45099998474121095,0.1452106088399887,Roberto Firmino,h,482,OpenPlay,2017,RightFoot,7423,Liverpool,Watford,5,0,2018-03-17 17:30:00,Mohamed Salah,Cross
+6,201642,60,MissedShots,0.9030000305175782,0.44599998474121094,0.07056958973407745,Roberto Firmino,h,482,OpenPlay,2017,Head,7423,Liverpool,Watford,5,0,2018-03-17 17:30:00,Joseph Gomez,Cross
+2,204119,14,SavedShot,0.750999984741211,0.575,0.018647847697138786,Roberto Firmino,a,482,OpenPlay,2017,LeftFoot,7432,Crystal Palace,Liverpool,1,2,2018-03-31 12:30:00,,Interception
+3,204120,22,BlockedShot,0.7269999694824218,0.49900001525878906,0.017673498019576073,Roberto Firmino,a,482,OpenPlay,2017,RightFoot,7432,Crystal Palace,Liverpool,1,2,2018-03-31 12:30:00,Andrew Robertson,Pass
+5,204122,28,BlockedShot,0.795,0.29700000762939455,0.01872067153453827,Roberto Firmino,a,482,OpenPlay,2017,RightFoot,7432,Crystal Palace,Liverpool,1,2,2018-03-31 12:30:00,Mohamed Salah,Pass
+6,204123,29,BlockedShot,0.899000015258789,0.5379999923706055,0.056128256022930145,Roberto Firmino,a,482,FromCorner,2017,Head,7432,Crystal Palace,Liverpool,1,2,2018-03-31 12:30:00,James Milner,Cross
+7,204124,37,MissedShots,0.8859999847412109,0.435,0.046019744127988815,Roberto Firmino,a,482,OpenPlay,2017,Head,7432,Crystal Palace,Liverpool,1,2,2018-03-31 12:30:00,James Milner,Cross
+10,204127,42,BlockedShot,0.89,0.3220000076293945,0.04668663814663887,Roberto Firmino,a,482,OpenPlay,2017,RightFoot,7432,Crystal Palace,Liverpool,1,2,2018-03-31 12:30:00,,Rebound
+15,208652,73,BlockedShot,0.9080000305175782,0.45799999237060546,0.6592406034469604,Roberto Firmino,h,482,OpenPlay,2017,OtherBodyPart,7452,Liverpool,Bournemouth,3,0,2018-04-14 16:30:00,Alex Oxlade-Chamberlain,TakeOn
+18,208660,89,Goal,0.855999984741211,0.595999984741211,0.09731457382440567,Roberto Firmino,h,482,OpenPlay,2017,RightFoot,7452,Liverpool,Bournemouth,3,0,2018-04-14 16:30:00,Alex Oxlade-Chamberlain,Pass
+7,210267,85,MissedShots,0.9319999694824219,0.6430000305175781,0.026339130476117134,Roberto Firmino,a,482,OpenPlay,2017,Head,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,Alex Oxlade-Chamberlain,Cross
+0,213985,2,SavedShot,0.8969999694824219,0.28299999237060547,0.041002243757247925,Roberto Firmino,a,482,OpenPlay,2017,RightFoot,7485,Chelsea,Liverpool,1,0,2018-05-06 16:30:00,Trent Alexander-Arnold,Chipped
+0,215732,5,BlockedShot,0.8,0.524000015258789,0.04659005627036095,Roberto Firmino,h,482,OpenPlay,2017,LeftFoot,7495,Liverpool,Brighton,4,0,2018-05-13 15:00:00,Mohamed Salah,Dispossessed
+7,215739,28,MissedShots,0.8919999694824219,0.555,0.13388338685035706,Roberto Firmino,h,482,OpenPlay,2017,RightFoot,7495,Liverpool,Brighton,4,0,2018-05-13 15:00:00,Sadio Mané,Pass
+12,215744,35,MissedShots,0.9009999847412109,0.5720000076293945,0.13421553373336792,Roberto Firmino,h,482,OpenPlay,2017,RightFoot,7495,Liverpool,Brighton,4,0,2018-05-13 15:00:00,Dominic Solanke,Pass
+16,215749,48,SavedShot,0.7280000305175781,0.4759999847412109,0.019125407561659813,Roberto Firmino,h,482,OpenPlay,2017,RightFoot,7495,Liverpool,Brighton,4,0,2018-05-13 15:00:00,Virgil van Dijk,BallRecovery
+20,215754,57,SavedShot,0.895,0.504000015258789,0.4619210660457611,Roberto Firmino,h,482,OpenPlay,2017,LeftFoot,7495,Liverpool,Brighton,4,0,2018-05-13 15:00:00,Mohamed Salah,Pass
+1,232789,17,MissedShots,0.955,0.47900001525878905,0.6026626825332642,Roberto Firmino,h,482,OpenPlay,2018,RightFoot,9205,Liverpool,West Ham,4,0,2018-08-12 15:30:00,James Milner,Cross
+14,233055,86,MissedShots,0.8190000152587891,0.6819999694824219,0.03547007963061333,Roberto Firmino,a,482,OpenPlay,2018,RightFoot,9216,Crystal Palace,Liverpool,0,2,2018-08-20 22:00:00,Mohamed Salah,Pass
+1,233316,8,SavedShot,0.9640000152587891,0.5629999923706055,0.4850970506668091,Roberto Firmino,h,482,OpenPlay,2018,Head,9223,Liverpool,Brighton,1,0,2018-08-25 19:30:00,Andrew Robertson,Cross
+7,233322,43,BlockedShot,0.7559999847412109,0.46299999237060546,0.03280583396553993,Roberto Firmino,h,482,OpenPlay,2018,RightFoot,9223,Liverpool,Brighton,1,0,2018-08-25 19:30:00,Mohamed Salah,Pass
+8,233323,43,MissedShots,0.815,0.7230000305175781,0.02543593756854534,Roberto Firmino,h,482,OpenPlay,2018,RightFoot,9223,Liverpool,Brighton,1,0,2018-08-25 19:30:00,Andrew Robertson,Pass
+9,233324,45,BlockedShot,0.919000015258789,0.669000015258789,0.09213080257177353,Roberto Firmino,h,482,OpenPlay,2018,RightFoot,9223,Liverpool,Brighton,1,0,2018-08-25 19:30:00,Andrew Robertson,Pass
+13,233331,68,SavedShot,0.919000015258789,0.31799999237060544,0.08823637664318085,Roberto Firmino,h,482,OpenPlay,2018,RightFoot,9223,Liverpool,Brighton,1,0,2018-08-25 19:30:00,Mohamed Salah,Pass
+0,233644,3,SavedShot,0.8730000305175781,0.4229999923706055,0.34232696890830994,Roberto Firmino,a,482,OpenPlay,2018,RightFoot,9227,Leicester,Liverpool,1,2,2018-09-01 11:30:00,Mohamed Salah,Pass
+6,233656,44,Goal,0.9119999694824219,0.4909999847412109,0.08612330257892609,Roberto Firmino,a,482,FromCorner,2018,Head,9227,Leicester,Liverpool,1,2,2018-09-01 11:30:00,James Milner,Cross
+8,233926,53,Goal,0.9890000152587891,0.4929999923706055,0.9634119868278503,Roberto Firmino,a,482,OpenPlay,2018,LeftFoot,9237,Tottenham,Liverpool,1,2,2018-09-15 11:30:00,,None
+0,234174,3,MissedShots,0.9180000305175782,0.5,0.12557540833950043,Roberto Firmino,h,482,OpenPlay,2018,Head,9249,Liverpool,Southampton,3,0,2018-09-22 14:00:00,Xherdan Shaqiri,Cross
+5,234186,44,BlockedShot,0.8730000305175781,0.7119999694824218,0.04091969504952431,Roberto Firmino,h,482,OpenPlay,2018,RightFoot,9249,Liverpool,Southampton,3,0,2018-09-22 14:00:00,,None
+3,234314,17,BlockedShot,0.8730000305175781,0.33799999237060546,0.06517343968153,Roberto Firmino,a,482,OpenPlay,2018,RightFoot,9264,Chelsea,Liverpool,1,1,2018-09-29 16:30:00,Mohamed Salah,Pass
+9,234328,71,BlockedShot,0.9369999694824219,0.4779999923706055,0.38861700892448425,Roberto Firmino,a,482,OpenPlay,2018,Head,9264,Chelsea,Liverpool,1,1,2018-09-29 16:30:00,James Milner,Chipped
+10,249421,88,MissedShots,0.8280000305175781,0.48200000762939454,0.08814547955989838,Roberto Firmino,a,482,OpenPlay,2018,LeftFoot,9284,Huddersfield,Liverpool,0,1,2018-10-20 16:30:00,Daniel Sturridge,Pass
+10,249488,41,MissedShots,0.7769999694824219,0.5670000076293945,0.031566642224788666,Roberto Firmino,h,482,OpenPlay,2018,RightFoot,9288,Liverpool,Cardiff,4,1,2018-10-27 14:00:00,Sadio Mané,Pass
+1,249873,12,BlockedShot,0.7419999694824219,0.4929999923706055,0.01872614398598671,Roberto Firmino,a,482,OpenPlay,2018,LeftFoot,9303,Arsenal,Liverpool,1,1,2018-11-03 17:30:00,Mohamed Salah,Pass
+2,249877,17,ShotOnPost,0.8919999694824219,0.375,0.3290324807167053,Roberto Firmino,a,482,OpenPlay,2018,RightFoot,9303,Arsenal,Liverpool,1,1,2018-11-03 17:30:00,Trent Alexander-Arnold,Throughball
+9,249890,68,MissedShots,0.9030000305175782,0.534000015258789,0.06348036229610443,Roberto Firmino,a,482,FromCorner,2018,Head,9303,Arsenal,Liverpool,1,1,2018-11-03 17:30:00,James Milner,Cross
+19,250184,89,SavedShot,0.8880000305175781,0.7519999694824219,0.03878491371870041,Roberto Firmino,h,482,FromCorner,2018,RightFoot,9313,Liverpool,Fulham,2,0,2018-11-11 12:00:00,James Milner,Pass
+0,250271,38,SavedShot,0.865999984741211,0.2610000038146973,0.03326496481895447,Roberto Firmino,a,482,OpenPlay,2018,RightFoot,9318,Watford,Liverpool,0,3,2018-11-24 15:00:00,,BallRecovery
+3,250275,52,MissedShots,0.875999984741211,0.5420000076293945,0.07497076690196991,Roberto Firmino,a,482,OpenPlay,2018,RightFoot,9318,Watford,Liverpool,0,3,2018-11-24 15:00:00,Trent Alexander-Arnold,Cross
+9,250284,88,Goal,0.9590000152587891,0.4329999923706055,0.5781949758529663,Roberto Firmino,a,482,OpenPlay,2018,Head,9318,Watford,Liverpool,0,3,2018-11-24 15:00:00,,Rebound
+2,250738,18,MissedShots,0.8630000305175781,0.4229999923706055,0.09242013841867447,Roberto Firmino,h,482,OpenPlay,2018,LeftFoot,9330,Liverpool,Everton,1,0,2018-12-02 16:15:00,Mohamed Salah,Pass
+3,250742,28,SavedShot,0.755,0.68,0.020799342542886734,Roberto Firmino,h,482,OpenPlay,2018,RightFoot,9330,Liverpool,Everton,1,0,2018-12-02 16:15:00,Andrew Robertson,Pass
+9,250753,80,MissedShots,0.9019999694824219,0.7030000305175781,0.1002800241112709,Roberto Firmino,h,482,OpenPlay,2018,LeftFoot,9330,Liverpool,Everton,1,0,2018-12-02 16:15:00,Daniel Sturridge,Chipped
+10,250917,68,Goal,0.98,0.4779999923706055,0.9567199945449829,Roberto Firmino,a,482,SetPiece,2018,RightFoot,9343,Burnley,Liverpool,1,3,2018-12-05 19:45:00,Virgil van Dijk,Pass
+4,251013,24,SavedShot,0.73,0.47299999237060547,0.01819992996752262,Roberto Firmino,a,482,OpenPlay,2018,LeftFoot,9355,Bournemouth,Liverpool,0,4,2018-12-08 12:30:00,Mohamed Salah,Pass
+0,251439,1,BlockedShot,0.8730000305175781,0.28899999618530275,0.041119590401649475,Roberto Firmino,h,482,OpenPlay,2018,RightFoot,9362,Liverpool,Manchester United,3,1,2018-12-16 16:00:00,Mohamed Salah,Pass
+1,251440,5,MissedShots,0.9290000152587891,0.5070000076293946,0.05794612690806389,Roberto Firmino,h,482,FromCorner,2018,Head,9362,Liverpool,Manchester United,3,1,2018-12-16 16:00:00,Georginio Wijnaldum,Aerial
+2,251441,6,SavedShot,0.754000015258789,0.5070000076293946,0.016409199684858322,Roberto Firmino,h,482,OpenPlay,2018,LeftFoot,9362,Liverpool,Manchester United,3,1,2018-12-16 16:00:00,Sadio Mané,Chipped
+4,251444,9,BlockedShot,0.9259999847412109,0.48700000762939455,0.11637240648269653,Roberto Firmino,h,482,FromCorner,2018,LeftFoot,9362,Liverpool,Manchester United,3,1,2018-12-16 16:00:00,Georginio Wijnaldum,Cross
+9,251449,13,MissedShots,0.7619999694824219,0.3089999961853027,0.013473120518028736,Roberto Firmino,h,482,OpenPlay,2018,LeftFoot,9362,Liverpool,Manchester United,3,1,2018-12-16 16:00:00,,None
+11,251451,26,BlockedShot,0.905,0.3029999923706055,0.04401298984885216,Roberto Firmino,h,482,SetPiece,2018,LeftFoot,9362,Liverpool,Manchester United,3,1,2018-12-16 16:00:00,,None
+17,251459,51,SavedShot,0.875,0.5829999923706055,0.11459830403327942,Roberto Firmino,h,482,OpenPlay,2018,RightFoot,9362,Liverpool,Manchester United,3,1,2018-12-16 16:00:00,,TakeOn
+23,251465,60,BlockedShot,0.9009999847412109,0.32099998474121094,0.06701381504535675,Roberto Firmino,h,482,OpenPlay,2018,RightFoot,9362,Liverpool,Manchester United,3,1,2018-12-16 16:00:00,Mohamed Salah,Pass
+34,251479,90,MissedShots,0.865,0.7019999694824218,0.05746226757764816,Roberto Firmino,h,482,OpenPlay,2018,RightFoot,9362,Liverpool,Manchester United,3,1,2018-12-16 16:00:00,Georginio Wijnaldum,Pass
+0,251481,2,BlockedShot,0.825,0.5690000152587891,0.06818913668394089,Roberto Firmino,a,482,OpenPlay,2018,LeftFoot,9367,Wolverhampton Wanderers,Liverpool,0,2,2018-12-21 20:00:00,Mohamed Salah,TakeOn
+1,251484,11,BlockedShot,0.7880000305175782,0.42700000762939455,0.014607785269618034,Roberto Firmino,a,482,OpenPlay,2018,RightFoot,9367,Wolverhampton Wanderers,Liverpool,0,2,2018-12-21 20:00:00,,Aerial
+9,251900,66,SavedShot,0.9590000152587891,0.34900001525878904,0.053947512060403824,Roberto Firmino,h,482,FromCorner,2018,RightFoot,9381,Liverpool,Newcastle United,4,0,2018-12-26 15:00:00,Mohamed Salah,Pass
+0,263681,5,BlockedShot,0.879000015258789,0.7169999694824218,0.037845954298973083,Roberto Firmino,h,482,OpenPlay,2018,LeftFoot,9391,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,,None
+2,263685,13,Goal,0.9790000152587891,0.5179999923706055,0.6241657137870789,Roberto Firmino,h,482,OpenPlay,2018,RightFoot,9391,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,,Dispossessed
+3,263686,15,Goal,0.86,0.48200000762939454,0.3569256067276001,Roberto Firmino,h,482,OpenPlay,2018,LeftFoot,9391,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,,TakeOn
+7,263694,55,SavedShot,0.784000015258789,0.34599998474121096,0.03677348792552948,Roberto Firmino,h,482,OpenPlay,2018,RightFoot,9391,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,Xherdan Shaqiri,Pass
+10,263697,64,Goal,0.885,0.5,0.7611688375473022,Roberto Firmino,h,482,Penalty,2018,RightFoot,9391,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,,Standard
+3,274357,62,SavedShot,0.9409999847412109,0.3,0.07123465836048126,Roberto Firmino,a,482,SetPiece,2018,RightFoot,9400,Manchester City,Liverpool,2,1,2019-01-03 20:00:00,,TakeOn
+4,274358,63,Goal,0.975,0.475,0.6233962178230286,Roberto Firmino,a,482,OpenPlay,2018,Head,9400,Manchester City,Liverpool,2,1,2019-01-03 20:00:00,Andrew Robertson,Chipped
+0,274420,8,MissedShots,0.9259999847412109,0.48200000762939454,0.411426305770874,Roberto Firmino,a,482,OpenPlay,2018,RightFoot,9416,Brighton,Liverpool,0,1,2019-01-12 15:00:00,Andrew Robertson,Cross
+6,274431,74,SavedShot,0.8090000152587891,0.45599998474121095,0.06769957393407822,Roberto Firmino,a,482,OpenPlay,2018,RightFoot,9416,Brighton,Liverpool,0,1,2019-01-12 15:00:00,Mohamed Salah,Pass
+2,274652,12,MissedShots,0.795,0.69,0.02501232735812664,Roberto Firmino,h,482,OpenPlay,2018,RightFoot,9422,Liverpool,Crystal Palace,4,3,2019-01-19 15:00:00,Fabinho,Pass
+13,274665,52,Goal,0.865,0.5929999923706055,0.05701268091797829,Roberto Firmino,h,482,FromCorner,2018,RightFoot,9422,Liverpool,Crystal Palace,4,3,2019-01-19 15:00:00,Naby Keita,Pass
+1,275107,5,SavedShot,0.93,0.6859999847412109,0.06912234425544739,Roberto Firmino,h,482,OpenPlay,2018,RightFoot,9436,Liverpool,Leicester,1,1,2019-01-30 20:00:00,Mohamed Salah,TakeOn
+4,275115,73,SavedShot,0.885,0.6530000305175782,0.0692431628704071,Roberto Firmino,h,482,OpenPlay,2018,RightFoot,9436,Liverpool,Leicester,1,1,2019-01-30 20:00:00,Jordan Henderson,TakeOn
+1,275350,19,SavedShot,0.884000015258789,0.6170000076293946,0.07000091671943665,Roberto Firmino,a,482,OpenPlay,2018,LeftFoot,9437,West Ham,Liverpool,1,1,2019-02-04 20:00:00,,None
+1,275489,11,SavedShot,0.9630000305175781,0.615999984741211,0.12430592626333237,Roberto Firmino,h,482,OpenPlay,2018,LeftFoot,9455,Liverpool,Bournemouth,3,0,2019-02-09 15:00:00,Sadio Mané,Throughball
+14,275511,79,BlockedShot,0.870999984741211,0.48700000762939455,0.13472341001033783,Roberto Firmino,h,482,OpenPlay,2018,RightFoot,9455,Liverpool,Bournemouth,3,0,2019-02-09 15:00:00,Mohamed Salah,Pass
+18,275515,86,SavedShot,0.825999984741211,0.485,0.27052000164985657,Roberto Firmino,h,482,OpenPlay,2018,RightFoot,9455,Liverpool,Bournemouth,3,0,2019-02-09 15:00:00,Andrew Robertson,Pass
+9,276352,84,BlockedShot,0.9209999847412109,0.575,0.12361320108175278,Roberto Firmino,a,482,SetPiece,2018,RightFoot,9483,Everton,Liverpool,0,0,2019-03-03 16:15:00,Joel Matip,Pass
+0,284924,13,BlockedShot,0.855999984741211,0.5929999923706055,0.11015486717224121,Roberto Firmino,h,482,OpenPlay,2018,RightFoot,9490,Liverpool,Burnley,4,2,2019-03-10 12:00:00,Mohamed Salah,Pass
+3,284927,18,Goal,0.99,0.49700000762939456,0.9602892994880676,Roberto Firmino,h,482,OpenPlay,2018,LeftFoot,9490,Liverpool,Burnley,4,2,2019-03-10 12:00:00,,None
+13,284938,66,Goal,0.92,0.48200000762939454,0.5210155248641968,Roberto Firmino,h,482,OpenPlay,2018,RightFoot,9490,Liverpool,Burnley,4,2,2019-03-10 12:00:00,,Dispossessed
+6,286760,46,BlockedShot,0.9269999694824219,0.5179999923706055,0.1646512895822525,Roberto Firmino,a,482,OpenPlay,2018,RightFoot,9502,Fulham,Liverpool,1,2,2019-03-17 14:15:00,Georginio Wijnaldum,Rebound
+7,286761,50,BlockedShot,0.8090000152587891,0.5059999847412109,0.06682761013507843,Roberto Firmino,a,482,OpenPlay,2018,LeftFoot,9502,Fulham,Liverpool,1,2,2019-03-17 14:15:00,,BallRecovery
+1,288236,15,Goal,0.9219999694824219,0.5070000076293946,0.35757991671562195,Roberto Firmino,h,482,OpenPlay,2018,Head,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,Andrew Robertson,Cross
+6,288245,53,MissedShots,0.905,0.5279999923706055,0.05665664002299309,Roberto Firmino,h,482,OpenPlay,2018,Head,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,James Milner,Aerial
+3,291734,29,MissedShots,0.779000015258789,0.575,0.02862648293375969,Roberto Firmino,a,482,OpenPlay,2018,RightFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,,None
+6,291737,44,MissedShots,0.879000015258789,0.23299999237060548,0.0227062925696373,Roberto Firmino,a,482,OpenPlay,2018,RightFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,Mohamed Salah,Pass
+9,291743,59,SavedShot,0.7519999694824219,0.2560000038146973,0.014006409794092178,Roberto Firmino,a,482,FromCorner,2018,RightFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,,Rebound
+10,291744,61,MissedShots,0.9119999694824219,0.6020000076293945,0.11467353999614716,Roberto Firmino,a,482,OpenPlay,2018,LeftFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,Sadio Mané,Pass
+11,291745,65,BlockedShot,0.9209999847412109,0.5029999923706054,0.31113046407699585,Roberto Firmino,a,482,OpenPlay,2018,RightFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,Naby Keita,TakeOn
+8,294285,56,MissedShots,0.7759999847412109,0.34900001525878904,0.03494209423661232,Roberto Firmino,h,482,OpenPlay,2018,RightFoot,9531,Liverpool,Chelsea,2,0,2019-04-14 16:30:00,Trent Alexander-Arnold,Pass
+13,294292,79,SavedShot,0.8590000152587891,0.3089999961853027,0.040888700634241104,Roberto Firmino,h,482,FromCorner,2018,LeftFoot,9531,Liverpool,Chelsea,2,0,2019-04-14 16:30:00,Mohamed Salah,Pass
+1,296002,17,BlockedShot,0.8419999694824218,0.35900001525878905,0.048432547599077225,Roberto Firmino,a,482,OpenPlay,2018,LeftFoot,9544,Cardiff,Liverpool,0,2,2019-04-21 16:00:00,,None
+2,296003,21,MissedShots,0.9,0.47,0.451316237449646,Roberto Firmino,a,482,OpenPlay,2018,LeftFoot,9544,Cardiff,Liverpool,0,2,2019-04-21 16:00:00,Sadio Mané,Throughball
+5,296006,40,SavedShot,0.9619999694824218,0.39799999237060546,0.01587642729282379,Roberto Firmino,a,482,FromCorner,2018,Head,9544,Cardiff,Liverpool,0,2,2019-04-21 16:00:00,Trent Alexander-Arnold,Aerial
+3,309902,30,SavedShot,0.8780000305175781,0.555,0.11204415559768677,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Trent Alexander-Arnold,Cross
+5,309905,46,BlockedShot,0.8480000305175781,0.6940000152587891,0.04572838544845581,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Andrew Robertson,Pass
+7,309907,47,ShotOnPost,0.9640000152587891,0.5420000076293945,0.6854050755500793,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Trent Alexander-Arnold,Pass
+12,309914,70,BlockedShot,0.835999984741211,0.48200000762939454,0.09527646750211716,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Mohamed Salah,Pass
+11,310457,64,MissedShots,0.875999984741211,0.5429999923706055,0.35860785841941833,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Sadio Mané,Pass
+12,310459,70,Goal,0.835,0.505,0.08791559189558029,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Sadio Mané,TakeOn
+4,312705,22,BlockedShot,0.8569999694824219,0.5879999923706055,0.09224480390548706,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11670,Liverpool,Arsenal,3,1,2019-08-24 17:30:00,Sadio Mané,Pass
+10,312713,39,BlockedShot,0.7769999694824219,0.44,0.0346701517701149,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11670,Liverpool,Arsenal,3,1,2019-08-24 17:30:00,Trent Alexander-Arnold,BallRecovery
+14,312717,46,BlockedShot,0.7869999694824219,0.580999984741211,0.04536319896578789,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11670,Liverpool,Arsenal,3,1,2019-08-24 17:30:00,Fabinho,Pass
+19,312723,55,BlockedShot,0.7769999694824219,0.6229999923706054,0.025043131783604622,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11670,Liverpool,Arsenal,3,1,2019-08-24 17:30:00,Andrew Robertson,Pass
+23,312727,61,SavedShot,0.850999984741211,0.6430000305175781,0.08877450972795486,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11670,Liverpool,Arsenal,3,1,2019-08-24 17:30:00,Sadio Mané,Pass
+24,312729,68,BlockedShot,0.8430000305175781,0.43900001525878907,0.07611186057329178,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11670,Liverpool,Arsenal,3,1,2019-08-24 17:30:00,,None
+2,316007,22,BlockedShot,0.8,0.5179999923706055,0.06399092078208923,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11680,Burnley,Liverpool,0,3,2019-08-31 17:30:00,,TakeOn
+4,316009,24,SavedShot,0.8859999847412109,0.48200000762939454,0.015384657308459282,Roberto Firmino,a,482,FromCorner,2019,Head,11680,Burnley,Liverpool,0,3,2019-08-31 17:30:00,Mohamed Salah,Aerial
+7,316015,57,BlockedShot,0.915,0.46799999237060547,0.12187527120113373,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11680,Burnley,Liverpool,0,3,2019-08-31 17:30:00,,Tackle
+10,316018,63,BlockedShot,0.9119999694824219,0.61,0.12072008103132248,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11680,Burnley,Liverpool,0,3,2019-08-31 17:30:00,Jordan Henderson,Chipped
+13,316023,79,Goal,0.8119999694824219,0.4370000076293945,0.10348904877901077,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11680,Burnley,Liverpool,0,3,2019-08-31 17:30:00,Mohamed Salah,Pass
+12,317040,60,SavedShot,0.89,0.44299999237060544,0.07791872322559357,Roberto Firmino,h,482,OpenPlay,2019,Head,11683,Liverpool,Newcastle United,3,1,2019-09-14 11:30:00,Trent Alexander-Arnold,Cross
+15,317043,62,MissedShots,0.9069999694824219,0.47099998474121096,0.026227103546261787,Roberto Firmino,h,482,FromCorner,2019,Head,11683,Liverpool,Newcastle United,3,1,2019-09-14 11:30:00,Trent Alexander-Arnold,Aerial
+1,321266,29,Goal,0.9459999847412109,0.505,0.49558913707733154,Roberto Firmino,a,482,SetPiece,2019,Head,11701,Chelsea,Liverpool,1,2,2019-09-22 15:30:00,Andrew Robertson,Aerial
+3,321270,46,SavedShot,0.9290000152587891,0.61,0.21972985565662384,Roberto Firmino,a,482,FromCorner,2019,RightFoot,11701,Chelsea,Liverpool,1,2,2019-09-22 15:30:00,Trent Alexander-Arnold,Cross
+3,324093,32,MissedShots,0.950999984741211,0.5479999923706055,0.49199235439300537,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11715,Liverpool,Leicester,2,1,2019-10-05 15:00:00,Trent Alexander-Arnold,Cross
+11,324101,64,MissedShots,0.8680000305175781,0.38299999237060545,0.09708251804113388,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11715,Liverpool,Leicester,2,1,2019-10-05 15:00:00,Trent Alexander-Arnold,Pass
+14,324105,75,BlockedShot,0.8730000305175781,0.325,0.052564315497875214,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11715,Liverpool,Leicester,2,1,2019-10-05 15:00:00,Mohamed Salah,Pass
+0,326441,9,MissedShots,0.9590000152587891,0.7090000152587891,0.05242418870329857,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11729,Manchester United,Liverpool,1,1,2019-10-20 16:30:00,Sadio Mané,HeadPass
+2,326446,28,MissedShots,0.8640000152587891,0.4329999923706055,0.0736473873257637,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11729,Manchester United,Liverpool,1,1,2019-10-20 16:30:00,Trent Alexander-Arnold,Chipped
+3,326447,33,SavedShot,0.860999984741211,0.4279999923706055,0.12901680171489716,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11729,Manchester United,Liverpool,1,1,2019-10-20 16:30:00,Sadio Mané,Pass
+6,326453,76,SavedShot,0.8769999694824219,0.524000015258789,0.05110744386911392,Roberto Firmino,a,482,SetPiece,2019,Head,11729,Manchester United,Liverpool,1,1,2019-10-20 16:30:00,Trent Alexander-Arnold,Cross
+4,328009,26,SavedShot,0.9569999694824218,0.32,0.04974276199936867,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11736,Liverpool,Tottenham,2,1,2019-10-27 16:30:00,,Rebound
+10,328015,46,SavedShot,0.9690000152587891,0.4420000076293945,0.439589262008667,Roberto Firmino,h,482,OpenPlay,2019,Head,11736,Liverpool,Tottenham,2,1,2019-10-27 16:30:00,Andrew Robertson,Cross
+15,328021,56,SavedShot,0.9769999694824218,0.4,0.11286359280347824,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11736,Liverpool,Tottenham,2,1,2019-10-27 16:30:00,Trent Alexander-Arnold,Pass
+19,328026,70,BlockedShot,0.86,0.3120000076293945,0.035292573273181915,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11736,Liverpool,Tottenham,2,1,2019-10-27 16:30:00,Mohamed Salah,Pass
+5,329251,46,BlockedShot,0.879000015258789,0.5690000152587891,0.07149005681276321,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11744,Aston Villa,Liverpool,1,2,2019-11-02 15:00:00,Sadio Mané,Cross
+10,329256,62,BlockedShot,0.8530000305175781,0.754000015258789,0.026412777602672577,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11744,Aston Villa,Liverpool,1,2,2019-11-02 15:00:00,Georginio Wijnaldum,Pass
+4,331554,34,MissedShots,0.8519999694824218,0.6229999923706054,0.10368156433105469,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,,TakeOn
+5,331555,37,SavedShot,0.899000015258789,0.624000015258789,0.11812230944633484,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Trent Alexander-Arnold,Pass
+9,331565,54,MissedShots,0.8769999694824219,0.67,0.029299283400177956,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,,Aerial
+3,332262,46,MissedShots,0.9209999847412109,0.35700000762939454,0.01473650150001049,Roberto Firmino,a,482,FromCorner,2019,Head,11767,Crystal Palace,Liverpool,1,2,2019-11-23 15:00:00,Trent Alexander-Arnold,Cross
+6,332271,63,MissedShots,0.784000015258789,0.7559999847412109,0.02000843733549118,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11767,Crystal Palace,Liverpool,1,2,2019-11-23 15:00:00,Sadio Mané,Pass
+7,332272,64,SavedShot,0.894000015258789,0.615,0.3259895145893097,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11767,Crystal Palace,Liverpool,1,2,2019-11-23 15:00:00,Andrew Robertson,Pass
+10,332279,84,Goal,0.9519999694824218,0.5120000076293946,0.6140031218528748,Roberto Firmino,a,482,FromCorner,2019,LeftFoot,11767,Crystal Palace,Liverpool,1,2,2019-11-23 15:00:00,,Rebound
+3,333644,15,SavedShot,0.855999984741211,0.53,0.09603805094957352,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11776,Liverpool,Brighton,2,1,2019-11-30 15:00:00,Sadio Mané,Pass
+5,333646,19,SavedShot,0.9290000152587891,0.40700000762939453,0.11436227709054947,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11776,Liverpool,Brighton,2,1,2019-11-30 15:00:00,Sadio Mané,Chipped
+4,335678,37,SavedShot,0.8,0.49700000762939456,0.0634496808052063,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,James Milner,Pass
+6,335680,40,BlockedShot,0.8540000152587891,0.49,0.10159569978713989,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Trent Alexander-Arnold,Pass
+8,335682,45,MissedShots,0.82,0.5220000076293946,0.07217900454998016,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,,BallRecovery
+10,335683,47,MissedShots,0.9480000305175781,0.395,0.047002922743558884,Roberto Firmino,a,482,FromCorner,2019,Head,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Trent Alexander-Arnold,Cross
+19,335694,85,BlockedShot,0.8859999847412109,0.6459999847412109,0.0656123161315918,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Naby Keita,TakeOn
+5,336800,62,SavedShot,0.874000015258789,0.664000015258789,0.07317432761192322,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11808,Liverpool,Watford,2,0,2019-12-14 12:30:00,,BallTouch
+10,336805,73,SavedShot,0.904000015258789,0.49700000762939456,0.14389003813266754,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11808,Liverpool,Watford,2,0,2019-12-14 12:30:00,Andrew Robertson,Pass
+6,352357,49,SavedShot,0.93,0.5540000152587891,0.5092891454696655,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11822,West Ham,Liverpool,0,2,2020-01-29 19:45:00,,None
+8,352361,61,MissedShots,0.9119999694824219,0.34299999237060547,0.1487072855234146,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11822,West Ham,Liverpool,0,2,2020-01-29 19:45:00,Jordan Henderson,TakeOn
+6,339679,30,Goal,0.9480000305175781,0.4490000152587891,0.34544700384140015,Roberto Firmino,a,482,FromCorner,2019,Head,11828,Leicester,Liverpool,0,4,2019-12-26 20:00:00,Trent Alexander-Arnold,Cross
+9,339683,54,MissedShots,0.9590000152587891,0.5570000076293945,0.5254456400871277,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11828,Leicester,Liverpool,0,4,2019-12-26 20:00:00,Andrew Robertson,Cross
+12,339687,73,Goal,0.91,0.5159999847412109,0.4499961733818054,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11828,Leicester,Liverpool,0,4,2019-12-26 20:00:00,Trent Alexander-Arnold,Cross
+3,339929,18,SavedShot,0.865,0.3659999847412109,0.10284899175167084,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11836,Liverpool,Wolverhampton Wanderers,1,0,2019-12-29 16:30:00,Mohamed Salah,Pass
+6,339932,30,MissedShots,0.9,0.48400001525878905,0.06273287534713745,Roberto Firmino,h,482,FromCorner,2019,Head,11836,Liverpool,Wolverhampton Wanderers,1,0,2019-12-29 16:30:00,Andrew Robertson,Cross
+9,339938,60,MissedShots,0.8290000152587891,0.5570000076293945,0.08787675201892853,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11836,Liverpool,Wolverhampton Wanderers,1,0,2019-12-29 16:30:00,Mohamed Salah,Pass
+6,351619,37,BlockedShot,0.8380000305175781,0.4640000152587891,0.09172938764095306,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11847,Liverpool,Sheffield United,2,0,2020-01-02 20:00:00,Mohamed Salah,Pass
+9,351622,53,MissedShots,0.9230000305175782,0.505,0.14327780902385712,Roberto Firmino,h,482,OpenPlay,2019,Head,11847,Liverpool,Sheffield United,2,0,2020-01-02 20:00:00,Jordan Henderson,Cross
+10,351623,56,MissedShots,0.8,0.7609999847412109,0.025663018226623535,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11847,Liverpool,Sheffield United,2,0,2020-01-02 20:00:00,Andrew Robertson,Pass
+12,351625,62,BlockedShot,0.8730000305175781,0.595999984741211,0.1045994758605957,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11847,Liverpool,Sheffield United,2,0,2020-01-02 20:00:00,Andrew Robertson,Pass
+15,351628,68,MissedShots,0.955999984741211,0.4540000152587891,0.6240779161453247,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11847,Liverpool,Sheffield United,2,0,2020-01-02 20:00:00,Trent Alexander-Arnold,Pass
+0,351770,1,BlockedShot,0.9130000305175782,0.38,0.12541407346725464,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Alex Oxlade-Chamberlain,Chipped
+2,351775,17,BlockedShot,0.85,0.5420000076293945,0.06910098344087601,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,,None
+5,351779,36,Goal,0.93,0.62,0.3700924217700958,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Mohamed Salah,Pass
+9,351787,57,SavedShot,0.850999984741211,0.5640000152587891,0.1029435247182846,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Mohamed Salah,Pass
+4,352077,26,MissedShots,0.909000015258789,0.5129999923706055,0.14504216611385345,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11865,Liverpool,Manchester United,2,0,2020-01-19 16:30:00,Mohamed Salah,Pass
+12,352088,54,BlockedShot,0.914000015258789,0.6669999694824219,0.09127408266067505,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11865,Liverpool,Manchester United,2,0,2020-01-19 16:30:00,Jordan Henderson,TakeOn
+14,352094,76,BlockedShot,0.865,0.6079999923706054,0.09319847077131271,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11865,Liverpool,Manchester United,2,0,2020-01-19 16:30:00,Sadio Mané,Pass
+8,352339,59,SavedShot,0.9030000305175782,0.3609999847412109,0.3046787679195404,Roberto Firmino,a,482,SetPiece,2019,LeftFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,,Rebound
+10,352343,71,BlockedShot,0.919000015258789,0.5770000076293945,0.10595817118883133,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Andrew Robertson,Cross
+11,352346,81,SavedShot,0.9059999847412109,0.6090000152587891,0.33718442916870117,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,,TakeOn
+12,352347,83,Goal,0.875,0.4540000152587891,0.11193666607141495,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Jordan Henderson,Pass
+5,352543,30,SavedShot,0.9119999694824219,0.4520000076293945,0.4181808829307556,Roberto Firmino,h,482,FromCorner,2019,LeftFoot,11887,Liverpool,Southampton,4,0,2020-02-01 15:00:00,,Rebound
+11,352563,77,SavedShot,0.9630000305175781,0.5640000152587891,0.6444374918937683,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11887,Liverpool,Southampton,4,0,2020-02-01 15:00:00,Naby Keita,Throughball
+15,352568,93,MissedShots,0.8830000305175781,0.39599998474121095,0.11406426876783371,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11887,Liverpool,Southampton,4,0,2020-02-01 15:00:00,Mohamed Salah,Chipped
+1,352760,4,BlockedShot,0.865,0.5790000152587891,0.09951076656579971,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11899,Norwich,Liverpool,0,1,2020-02-15 17:30:00,Alex Oxlade-Chamberlain,Pass
+16,352779,85,MissedShots,0.9540000152587891,0.534000015258789,0.5854846239089966,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11899,Norwich,Liverpool,0,1,2020-02-15 17:30:00,Trent Alexander-Arnold,Cross
+1,353136,8,BlockedShot,0.8919999694824219,0.31,0.04891587421298027,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11911,Liverpool,West Ham,3,2,2020-02-24 20:00:00,Naby Keita,None
+7,353144,25,MissedShots,0.774000015258789,0.664000015258789,0.022603332996368408,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11911,Liverpool,West Ham,3,2,2020-02-24 20:00:00,Naby Keita,Pass
+12,353149,45,MissedShots,0.8719999694824219,0.6659999847412109,0.060710202902555466,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11911,Liverpool,West Ham,3,2,2020-02-24 20:00:00,Trent Alexander-Arnold,Pass
+18,353156,62,MissedShots,0.9159999847412109,0.5029999923706054,0.09449657052755356,Roberto Firmino,h,482,FromCorner,2019,Head,11911,Liverpool,West Ham,3,2,2020-02-24 20:00:00,Trent Alexander-Arnold,Cross
+22,353160,73,ShotOnPost,0.9890000152587891,0.5459999847412109,0.6900090575218201,Roberto Firmino,h,482,FromCorner,2019,Head,11911,Liverpool,West Ham,3,2,2020-02-24 20:00:00,,Rebound
+0,353396,16,SavedShot,0.9130000305175782,0.3940000152587891,0.28090137243270874,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11928,Liverpool,Bournemouth,2,1,2020-03-07 12:30:00,Trent Alexander-Arnold,Chipped
+9,353409,72,MissedShots,0.9640000152587891,0.33099998474121095,0.1019505187869072,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11928,Liverpool,Bournemouth,2,1,2020-03-07 12:30:00,,TakeOn
+13,353413,90,MissedShots,0.8919999694824219,0.46599998474121096,0.5706191658973694,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11928,Liverpool,Bournemouth,2,1,2020-03-07 12:30:00,Mohamed Salah,Pass
+2,365868,33,MissedShots,0.8169999694824219,0.5259999847412109,0.050515316426754,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11940,Everton,Liverpool,0,0,2020-06-21 18:00:00,Sadio Mané,Pass
+3,366430,15,SavedShot,0.8640000152587891,0.6659999847412109,0.05622481182217598,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11951,Liverpool,Crystal Palace,4,0,2020-06-24 19:15:00,Sadio Mané,Pass
+1,368401,3,SavedShot,0.9030000305175782,0.35900001525878905,0.06405752152204514,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,,Rebound
+5,368414,60,BlockedShot,0.8630000305175781,0.49,0.10448367893695831,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Sadio Mané,Pass
+3,369036,75,SavedShot,0.8130000305175781,0.500999984741211,0.05967710167169571,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11966,Liverpool,Aston Villa,2,0,2020-07-05 15:30:00,Mohamed Salah,Pass
+0,369869,3,BlockedShot,0.835,0.37099998474121093,0.04902297258377075,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,,None
+6,369877,30,SavedShot,0.905,0.500999984741211,0.14412297308444977,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Alex Oxlade-Chamberlain,Throughball
+0,370416,12,BlockedShot,0.8690000152587891,0.544000015258789,0.10963897407054901,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11986,Liverpool,Burnley,1,1,2020-07-11 14:00:00,Sadio Mané,Pass
+8,370426,44,BlockedShot,0.865999984741211,0.33299999237060546,0.07182241976261139,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11986,Liverpool,Burnley,1,1,2020-07-11 14:00:00,Sadio Mané,Pass
+10,370428,48,ShotOnPost,0.8930000305175781,0.6480000305175782,0.08274755626916885,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11986,Liverpool,Burnley,1,1,2020-07-11 14:00:00,Mohamed Salah,BallRecovery
+6,373314,54,Goal,0.9290000152587891,0.5120000076293946,0.40503522753715515,Roberto Firmino,h,482,OpenPlay,2019,Head,12006,Liverpool,Chelsea,5,3,2020-07-22 19:15:00,Trent Alexander-Arnold,Cross
+19,376626,84,BlockedShot,0.7669999694824219,0.44299999237060544,0.025401655584573746,Roberto Firmino,h,482,OpenPlay,2020,LeftFoot,14090,Liverpool,Leeds,4,3,2020-09-12 16:30:00,,None
+20,376627,86,BlockedShot,0.875,0.5820000076293945,0.10476050525903702,Roberto Firmino,h,482,OpenPlay,2020,RightFoot,14090,Liverpool,Leeds,4,3,2020-09-12 16:30:00,Sadio Mané,Pass
+1,387023,13,BlockedShot,0.975,0.41900001525878905,0.14017879962921143,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,Mohamed Salah,Pass
+17,380015,75,BlockedShot,0.870999984741211,0.3629999923706055,0.08768340945243835,Roberto Firmino,h,482,OpenPlay,2020,RightFoot,14115,Liverpool,Arsenal,3,1,2020-09-28 19:15:00,Sadio Mané,Pass
+1,381493,14,SavedShot,0.92,0.3770000076293945,0.3330260217189789,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14466,Aston Villa,Liverpool,7,2,2020-10-04 18:15:00,Mohamed Salah,Pass
+3,381495,20,SavedShot,0.9580000305175781,0.6659999847412109,0.0634365826845169,Roberto Firmino,a,482,OpenPlay,2020,LeftFoot,14466,Aston Villa,Liverpool,7,2,2020-10-04 18:15:00,Andrew Robertson,TakeOn
+2,381677,12,BlockedShot,0.9169999694824219,0.3390000152587891,0.09925015270709991,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14477,Everton,Liverpool,2,2,2020-10-17 11:30:00,Jordan Henderson,Pass
+3,381678,12,MissedShots,0.904000015258789,0.43900001525878907,0.07833211123943329,Roberto Firmino,a,482,OpenPlay,2020,Head,14477,Everton,Liverpool,2,2,2020-10-17 11:30:00,Andrew Robertson,Cross
+6,383641,40,Goal,0.9669999694824218,0.49400001525878906,0.8156250715255737,Roberto Firmino,h,482,OpenPlay,2020,RightFoot,14490,Liverpool,Sheffield United,2,1,2020-10-24 19:00:00,,Rebound
+11,383650,65,BlockedShot,0.8959999847412109,0.37099998474121093,0.01909048669040203,Roberto Firmino,h,482,SetPiece,2020,Head,14490,Liverpool,Sheffield United,2,1,2020-10-24 19:00:00,Trent Alexander-Arnold,Cross
+12,383651,66,MissedShots,0.8919999694824219,0.519000015258789,0.03288467973470688,Roberto Firmino,h,482,FromCorner,2020,Head,14490,Liverpool,Sheffield United,2,1,2020-10-24 19:00:00,Trent Alexander-Arnold,BallTouch
+0,386771,4,BlockedShot,0.8069999694824219,0.27700000762939453,0.017772462218999863,Roberto Firmino,a,482,OpenPlay,2020,LeftFoot,14511,Manchester City,Liverpool,1,1,2020-11-08 16:30:00,Mohamed Salah,Pass
+8,386784,55,MissedShots,0.885,0.735999984741211,0.030992290005087852,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14511,Manchester City,Liverpool,1,1,2020-11-08 16:30:00,Andrew Robertson,Pass
+7,388178,31,MissedShots,0.9890000152587891,0.575,0.4163244664669037,Roberto Firmino,h,482,SetPiece,2020,RightFoot,14519,Liverpool,Leicester,3,0,2020-11-22 19:15:00,Joel Matip,HeadPass
+14,388188,56,SavedShot,0.9780000305175781,0.46299999237060546,0.5687517523765564,Roberto Firmino,h,482,OpenPlay,2020,LeftFoot,14519,Liverpool,Leicester,3,0,2020-11-22 19:15:00,Diogo Jota,Foul
+15,388189,56,ShotOnPost,0.97,0.44599998474121094,0.11533918231725693,Roberto Firmino,h,482,OpenPlay,2020,Head,14519,Liverpool,Leicester,3,0,2020-11-22 19:15:00,,None
+17,388194,76,ShotOnPost,0.9259999847412109,0.42400001525878905,0.5278110504150391,Roberto Firmino,h,482,OpenPlay,2020,RightFoot,14519,Liverpool,Leicester,3,0,2020-11-22 19:15:00,Diogo Jota,TakeOn
+18,388195,76,BlockedShot,0.9530000305175781,0.47,0.6696363687515259,Roberto Firmino,h,482,OpenPlay,2020,RightFoot,14519,Liverpool,Leicester,3,0,2020-11-22 19:15:00,,Rebound
+22,388200,85,Goal,0.8959999847412109,0.48,0.05570799857378006,Roberto Firmino,h,482,FromCorner,2020,Head,14519,Liverpool,Leicester,3,0,2020-11-22 19:15:00,James Milner,Cross
+2,388541,7,BlockedShot,0.8719999694824219,0.7290000152587891,0.035219933837652206,Roberto Firmino,a,482,FromCorner,2020,RightFoot,14528,Brighton,Liverpool,1,1,2020-11-28 12:30:00,Andrew Robertson,Pass
+5,388550,68,BlockedShot,0.78,0.325,0.029385793954133987,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14528,Brighton,Liverpool,1,1,2020-11-28 12:30:00,,None
+0,392315,5,SavedShot,0.78,0.43099998474121093,0.033653054386377335,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14547,Fulham,Liverpool,1,1,2020-12-13 16:30:00,,BlockedPass
+3,392322,44,BlockedShot,0.705999984741211,0.649000015258789,0.010963572189211845,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14547,Fulham,Liverpool,1,1,2020-12-13 16:30:00,,None
+1,393451,10,SavedShot,0.8769999694824219,0.42200000762939455,0.033449240028858185,Roberto Firmino,h,482,SetPiece,2020,Head,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,Andrew Robertson,Cross
+6,393457,34,SavedShot,0.88,0.40700000762939453,0.1036134585738182,Roberto Firmino,h,482,OpenPlay,2020,RightFoot,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,Trent Alexander-Arnold,Pass
+11,393467,66,SavedShot,0.85,0.504000015258789,0.09628960490226746,Roberto Firmino,h,482,OpenPlay,2020,RightFoot,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,Sadio Mané,Pass
+13,393469,69,BlockedShot,0.8719999694824219,0.34200000762939453,0.06002546474337578,Roberto Firmino,h,482,OpenPlay,2020,LeftFoot,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,Mohamed Salah,Pass
+16,393474,89,Goal,0.925,0.4879999923706055,0.1081855446100235,Roberto Firmino,h,482,FromCorner,2020,Head,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,Andrew Robertson,Cross
+5,393809,43,Goal,0.9130000305175782,0.5279999923706055,0.5676501989364624,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14568,Crystal Palace,Liverpool,0,7,2020-12-19 12:30:00,Andrew Robertson,Chipped
+10,393815,67,Goal,0.9269999694824219,0.65,0.2817293107509613,Roberto Firmino,a,482,OpenPlay,2020,LeftFoot,14568,Crystal Palace,Liverpool,0,7,2020-12-19 12:30:00,Mohamed Salah,Pass
+6,395788,27,BlockedShot,0.7819999694824219,0.3160000038146973,0.021702976897358894,Roberto Firmino,h,482,OpenPlay,2020,LeftFoot,14580,Liverpool,West Bromwich Albion,1,1,2020-12-27 16:30:00,Mohamed Salah,Pass
+15,395802,88,SavedShot,0.9359999847412109,0.59,0.2723347246646881,Roberto Firmino,h,482,OpenPlay,2020,Head,14580,Liverpool,West Bromwich Albion,1,1,2020-12-27 16:30:00,Alex Oxlade-Chamberlain,Chipped
+3,396146,45,SavedShot,0.895,0.549000015258789,0.06666329503059387,Roberto Firmino,a,482,OpenPlay,2020,Head,14591,Newcastle United,Liverpool,0,0,2020-12-30 20:00:00,Sadio Mané,Cross
+6,396149,67,MissedShots,0.970999984741211,0.5690000152587891,0.36759090423583984,Roberto Firmino,a,482,FromCorner,2020,Head,14591,Newcastle United,Liverpool,0,0,2020-12-30 20:00:00,Andrew Robertson,Cross
+10,396155,87,SavedShot,0.9269999694824219,0.509000015258789,0.0547817163169384,Roberto Firmino,a,482,FromCorner,2020,Head,14591,Newcastle United,Liverpool,0,0,2020-12-30 20:00:00,Andrew Robertson,Aerial
+0,397113,4,MissedShots,0.8640000152587891,0.34599998474121096,0.057704195380210876,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14598,Southampton,Liverpool,1,0,2021-01-04 20:00:00,Mohamed Salah,Pass
+4,397119,38,MissedShots,0.8959999847412109,0.5029999923706054,0.033833954483270645,Roberto Firmino,a,482,SetPiece,2020,Head,14598,Southampton,Liverpool,1,0,2021-01-04 20:00:00,Andrew Robertson,Aerial
+9,397127,69,MissedShots,0.8690000152587891,0.455,0.031381405889987946,Roberto Firmino,a,482,OpenPlay,2020,Head,14598,Southampton,Liverpool,1,0,2021-01-04 20:00:00,Xherdan Shaqiri,Cross
+19,400191,68,MissedShots,0.965999984741211,0.6509999847412109,0.06416897475719452,Roberto Firmino,h,482,OpenPlay,2020,LeftFoot,14613,Liverpool,Burnley,0,1,2021-01-21 20:00:00,Trent Alexander-Arnold,Chipped
+20,400193,71,MissedShots,0.8640000152587891,0.5870000076293945,0.09252092987298965,Roberto Firmino,h,482,OpenPlay,2020,RightFoot,14613,Liverpool,Burnley,0,1,2021-01-21 20:00:00,Andrew Robertson,Pass
+25,400199,88,BlockedShot,0.91,0.5359999847412109,0.11268769949674606,Roberto Firmino,h,482,OpenPlay,2020,RightFoot,14613,Liverpool,Burnley,0,1,2021-01-21 20:00:00,Trent Alexander-Arnold,Rebound
+0,399459,13,BlockedShot,0.774000015258789,0.43,0.03234297037124634,Roberto Firmino,h,482,OpenPlay,2020,RightFoot,14620,Liverpool,Manchester United,0,0,2021-01-17 16:30:00,Thiago Alcántara,TakeOn
+2,399461,16,MissedShots,0.835,0.509000015258789,0.07978218793869019,Roberto Firmino,h,482,OpenPlay,2020,LeftFoot,14620,Liverpool,Manchester United,0,0,2021-01-17 16:30:00,Sadio Mané,Pass
+4,399463,21,BlockedShot,0.9009999847412109,0.639000015258789,0.09094344824552536,Roberto Firmino,h,482,OpenPlay,2020,RightFoot,14620,Liverpool,Manchester United,0,0,2021-01-17 16:30:00,Sadio Mané,Pass
+8,399468,33,SavedShot,0.885,0.54,0.12143764644861221,Roberto Firmino,h,482,OpenPlay,2020,LeftFoot,14620,Liverpool,Manchester United,0,0,2021-01-17 16:30:00,Mohamed Salah,Pass
+11,399472,58,BlockedShot,0.97,0.4229999923706055,0.3809850215911865,Roberto Firmino,h,482,OpenPlay,2020,RightFoot,14620,Liverpool,Manchester United,0,0,2021-01-17 16:30:00,Andrew Robertson,Cross
+2,401364,20,SavedShot,0.7759999847412109,0.36,0.024719269946217537,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14633,Tottenham,Liverpool,1,3,2021-01-28 20:00:00,James Milner,Pass
+9,401369,48,Goal,0.98,0.4979999923706055,0.9588360786437988,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14633,Tottenham,Liverpool,1,3,2021-01-28 20:00:00,Sadio Mané,Pass
+11,401375,63,MissedShots,0.8969999694824219,0.28299999237060547,0.0628230944275856,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14633,Tottenham,Liverpool,1,3,2021-01-28 20:00:00,Mohamed Salah,Pass
+2,402833,47,BlockedShot,0.885,0.6090000152587891,0.11523721367120743,Roberto Firmino,h,482,OpenPlay,2020,LeftFoot,14654,Liverpool,Brighton,0,1,2021-02-03 20:15:00,,TakeOn
+3,402835,52,BlockedShot,0.850999984741211,0.6359999847412109,0.06911730021238327,Roberto Firmino,h,482,OpenPlay,2020,RightFoot,14654,Liverpool,Brighton,0,1,2021-02-03 20:15:00,Xherdan Shaqiri,Pass
+9,402845,77,MissedShots,0.7859999847412109,0.3990000152587891,0.02885155752301216,Roberto Firmino,h,482,OpenPlay,2020,RightFoot,14654,Liverpool,Brighton,0,1,2021-02-03 20:15:00,Trent Alexander-Arnold,Pass
+1,403857,28,SavedShot,0.855,0.345,0.04995096102356911,Roberto Firmino,h,482,OpenPlay,2020,RightFoot,14659,Liverpool,Manchester City,1,4,2021-02-07 16:30:00,,None
+3,404129,25,SavedShot,0.9769999694824218,0.37099998474121093,0.08761724084615707,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14670,Leicester,Liverpool,3,1,2021-02-13 12:30:00,Mohamed Salah,Pass
+5,404131,25,SavedShot,0.97,0.46,0.6731617450714111,Roberto Firmino,a,482,FromCorner,2020,RightFoot,14670,Leicester,Liverpool,3,1,2021-02-13 12:30:00,Sadio Mané,Rebound
+6,404132,27,BlockedShot,0.8809999847412109,0.769000015258789,0.02429121918976307,Roberto Firmino,a,482,SetPiece,2020,RightFoot,14670,Leicester,Liverpool,3,1,2021-02-13 12:30:00,Jordan Henderson,Pass
+12,404142,61,BlockedShot,0.9690000152587891,0.5590000152587891,0.0747695192694664,Roberto Firmino,a,482,FromCorner,2020,Head,14670,Leicester,Liverpool,3,1,2021-02-13 12:30:00,Trent Alexander-Arnold,Aerial
+1,405688,18,BlockedShot,0.855999984741211,0.5359999847412109,0.09056570380926132,Roberto Firmino,h,482,OpenPlay,2020,RightFoot,14680,Liverpool,Everton,0,2,2021-02-20 17:30:00,,TakeOn
+9,405699,55,SavedShot,0.7759999847412109,0.43099998474121093,0.025915419682860374,Roberto Firmino,h,482,OpenPlay,2020,RightFoot,14680,Liverpool,Everton,0,2,2021-02-20 17:30:00,Thiago Alcántara,BallRecovery
+11,405702,72,MissedShots,0.8090000152587891,0.53,0.043097883462905884,Roberto Firmino,h,482,OpenPlay,2020,LeftFoot,14680,Liverpool,Everton,0,2,2021-02-20 17:30:00,,None
+12,405705,84,BlockedShot,0.85,0.49900001525878906,0.24703675508499146,Roberto Firmino,h,482,OpenPlay,2020,RightFoot,14680,Liverpool,Everton,0,2,2021-02-20 17:30:00,Thiago Alcántara,TakeOn
+0,407541,9,SavedShot,0.8640000152587891,0.455,0.3594648540019989,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14694,Sheffield United,Liverpool,0,2,2021-02-28 19:15:00,Sadio Mané,Pass
+12,407558,63,MissedShots,0.88,0.3990000152587891,0.12337111681699753,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14694,Sheffield United,Liverpool,0,2,2021-02-28 19:15:00,Sadio Mané,LayOff
+5,408300,62,MissedShots,0.8619999694824219,0.5729999923706055,0.021904898807406425,Roberto Firmino,h,482,OpenPlay,2020,Head,14719,Liverpool,Chelsea,0,1,2021-03-04 20:15:00,Andrew Robertson,Cross
+4,412830,29,MissedShots,0.7980000305175782,0.6780000305175782,0.018054509535431862,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14725,Arsenal,Liverpool,0,3,2021-04-03 19:00:00,Andrew Robertson,TakeOn
+4,413873,14,MissedShots,0.755,0.38,0.022879287600517273,Roberto Firmino,h,482,OpenPlay,2020,RightFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,Trent Alexander-Arnold,Pass
+12,413885,49,BlockedShot,0.8490000152587891,0.585,0.05819736421108246,Roberto Firmino,h,482,OpenPlay,2020,LeftFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,Nathaniel Phillips,TakeOn
+1,416143,16,SavedShot,0.7869999694824219,0.6790000152587891,0.019361339509487152,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14749,Leeds,Liverpool,1,1,2021-04-19 19:00:00,Thiago Alcántara,Chipped
+3,416146,26,BlockedShot,0.919000015258789,0.66,0.11174770444631577,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14749,Leeds,Liverpool,1,1,2021-04-19 19:00:00,Diogo Jota,Pass
+10,416155,46,SavedShot,0.875999984741211,0.685,0.06296619772911072,Roberto Firmino,a,482,OpenPlay,2020,LeftFoot,14749,Leeds,Liverpool,1,1,2021-04-19 19:00:00,,None
+12,417061,47,SavedShot,0.8240000152587891,0.44,0.08331116288900375,Roberto Firmino,h,482,OpenPlay,2020,LeftFoot,14760,Liverpool,Newcastle United,1,1,2021-04-24 11:30:00,Diogo Jota,Pass
+13,417065,56,SavedShot,0.9740000152587891,0.40900001525878904,0.44034284353256226,Roberto Firmino,h,482,OpenPlay,2020,RightFoot,14760,Liverpool,Newcastle United,1,1,2021-04-24 11:30:00,,None
+18,417070,75,SavedShot,0.745,0.5790000152587891,0.02324567176401615,Roberto Firmino,h,482,OpenPlay,2020,RightFoot,14760,Liverpool,Newcastle United,1,1,2021-04-24 11:30:00,Sadio Mané,Pass
+7,421653,34,BlockedShot,0.8280000305175781,0.41,0.06608153879642487,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Trent Alexander-Arnold,Pass
+10,421660,46,Goal,0.91,0.4470000076293945,0.4212280213832855,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,,Rebound
+11,421658,47,Goal,0.9440000152587891,0.5729999923706055,0.29827436804771423,Roberto Firmino,a,482,SetPiece,2020,Head,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Trent Alexander-Arnold,Cross
+9,422449,34,ShotOnPost,0.860999984741211,0.4209999847412109,0.3425385653972626,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14789,West Bromwich Albion,Liverpool,1,2,2021-05-16 15:30:00,,None
+16,422461,67,BlockedShot,0.8130000305175781,0.700999984741211,0.028217487037181854,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14789,West Bromwich Albion,Liverpool,1,2,2021-05-16 15:30:00,Mohamed Salah,Pass
+17,422463,73,MissedShots,0.9059999847412109,0.6680000305175782,0.07385879755020142,Roberto Firmino,a,482,OpenPlay,2020,LeftFoot,14789,West Bromwich Albion,Liverpool,1,2,2021-05-16 15:30:00,Thiago Alcántara,Pass
+4,423343,15,MissedShots,0.9219999694824219,0.5059999847412109,0.14440883696079254,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Sadio Mané,Pass
+12,423355,42,Goal,0.8719999694824219,0.47,0.079051673412323,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Andrew Robertson,Cross
+9,424059,44,BlockedShot,0.7730000305175782,0.455,0.030001098290085793,Roberto Firmino,h,482,OpenPlay,2020,LeftFoot,14810,Liverpool,Crystal Palace,2,0,2021-05-23 15:00:00,Mohamed Salah,Pass
+13,424063,52,SavedShot,0.874000015258789,0.5670000076293945,0.012682781554758549,Roberto Firmino,h,482,FromCorner,2020,Head,14810,Liverpool,Crystal Palace,2,0,2021-05-23 15:00:00,Andrew Robertson,Aerial
+16,426000,64,Goal,0.905,0.5379999923706055,0.42416030168533325,Roberto Firmino,a,482,OpenPlay,2021,RightFoot,16383,Norwich,Liverpool,0,3,2021-08-14 16:30:00,Mohamed Salah,Pass
+26,426803,90,SavedShot,0.8190000152587891,0.46799999237060547,0.0883711725473404,Roberto Firmino,h,482,OpenPlay,2021,LeftFoot,16386,Liverpool,Burnley,2,0,2021-08-21 11:30:00,Sadio Mané,Pass
+7,463614,61,Goal,0.975,0.5379999923706055,0.7712225914001465,Roberto Firmino,a,482,OpenPlay,2021,RightFoot,16636,Arsenal,Liverpool,0,2,2022-03-16 20:15:00,Andrew Robertson,Pass
