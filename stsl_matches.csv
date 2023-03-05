@@ -1,4 +1,4 @@
-﻿team_h,team_a,date,week,goal_h,goal_a,result,xg_h,xg_openplay_h,xg_setplay_h,xg_per_shot_h,shots_h,shots_on_target_h,shots_inside_box_h,big_chances_h,big_chances_missed_h,possession_h,passes_h,accuracy_passes_h,passes_opposition_half_h,crosses_h,accuracy_crosses,successful dribbles_h,tackles_won_h,duels_won_h,xg_a,xg_openplay_a,xg_setplay_a,xg_per_shot_a,shots_a,shots_on_target_a,shots_inside_box_a,big_chances_a,big_chances_missed_a,possession_a,passes_a,accuracy_passes_a,passes_opposition_half_a,crosses_a,accuracy_crosses,successful dribbles_a,tackles_won_a,duels_won_a
+﻿team_h,team_a,date,week,goal_h,goal_a,result,xg_h,xg_openplay_h,xg_setplay_h,xg_per_shot_h,shots_h,shots_on_target_h,shots_inside_box_h,big_chances_h,big_chances_missed_h,possession_h,passes_h,accuracy_passes_h,passes_opposition_half_h,touches_opp_h,crosses_h,successful dribbles_h,tackles_won_h,duels_won_h,xg_a,xg_openplay_a,xg_setplay_a,xg_per_shot_a,shots_a,shots_on_target_a,shots_inside_box_a,big_chances_a,big_chances_missed_a,possession_a,passes_a,accuracy_passes_a,passes_opposition_half_a,touches_opp_a,crosses_a,successful dribbles_a,tackles_won_a,duels_won_a
 Besiktas,Kayserispor,2022-08-06,MD1,1,0,Besiktas,1.52,,,,,,,,,,,,,,,,,,0.46,,,,,,,,,,,,,,,,,
 Alanyaspor,Besiktas,2022-08-14,MD2,3,3,Draw,1.8,,,,,,,,,,,,,,,,,,1.32,,,,,,,,,,,,,,,,,
 Besiktas,Karagümrük,2022-08-21,MD3,4,1,Besiktas,2.57,,,,,,,,,,,,,,,,,,0.91,,,,,,,,,,,,,,,,,
@@ -19,5 +19,6 @@ Konyaspor,Besiktas,2023-01-14,MD17,1,2,Besiktas,1.51,,,,,,,,,,,,,,,,,,1.68,,,,,,
 Kayserispor,Besiktas,2023-01-22,MD18,0,2,Besiktas,0.61,,,,,,,,,,,,,,,,,,0.97,,,,,,,,,,,,,,,,,
 Besiktas,Alanyaspor,2023-01-27,MD19,3,0,Besiktas,3.03,,,,,,,,,,,,,,,,,,1.18,,,,,,,,,,,,,,,,,
 Karagümrük,Besiktas,2023-01-31,MD20,1,1,Draw,1.28,,,,,,,,,,,,,,,,,,0.91,,,,,,,,,,,,,,,,,
-Sivasspor,Besiktas,2023-02-04,MD21,1,0,Sivasspor,0.81,0.64,0.17,0.09,9,2,5,1,1,0.40,302,0.64,116,13,0.31,12,20,0.53,0.8,0.6,0.21,0.089,9,0,8,1,1,0.60,437,0.72,150,26,0.23,8,9,0.47
-Besiktas,Antalyaspor,2023-02-26,MD22,0,0,Draw,1.99,0.44,0.76,0.100,20,5,17,1,1,0.61,534,0.84,160,27,0.37,17,10,0.58,0.08,0.02,0.06,0.027,3,1,1,0,0,0.39,355,0.7,83,4,0.25,3,12,0.42
+Sivasspor,Besiktas,2023-02-04,MD21,1,0,Sivasspor,0.81,0.64,0.17,0.09,9,2,5,1,1,0.40,302,0.64,116,14,13,12,20,0.53,0.8,0.6,0.21,0.089,9,0,8,1,1,0.60,437,0.72,150,18,26,8,9,0.47
+Besiktas,Antalyaspor,2023-02-26,MD22,0,0,Draw,1.99,0.44,0.76,0.100,20,5,17,1,1,0.61,534,0.84,160,38,27,17,10,0.58,0.08,0.02,0.06,0.027,3,1,1,0,0,0.39,355,0.7,83,4,4,3,12,0.42
+Besiktas,Ankaragücü,2023-03-05,MD23,2,1,Besiktas,2.46,1.68,0.78,0.12,20,10,14,2,1,0.51,446,0.83,168,37,14,19,10,0.47,1.47,1.47,0,0.15,10,4,6,1,0,0.49,421,0.8,144,19,0,13,12,0.53
